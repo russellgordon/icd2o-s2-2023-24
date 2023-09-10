@@ -1,28 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/thread-1/day-1/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/thread-1/day-1/","tags":["B2.1","C1.1","C1.2"],"dgHomeLink":true}
 ---
 
 ### Thread 1, Day 1 - Tuesday, September 12, 2023
 #### Agenda
-1. LCAT
-	- Please complete your [daily LCAT check](https://lcat.lcs.on.ca) prior to coming to class.
-2. Tying Shoelaces Exercise
-	- Takeaways:
-		- Computers take instructions literally. Very literally.
-		- There are two kinds of errors, *syntax- and *logical*.
-			- A syntax error is when the computer does not understand an instruction.
-			- A logical error is when the computer understands and carries out an instruction, but the result is not what the programmer intended.
-3. Joining [our class on Spaces](https://ca.spacesedu.com/class/CA-C0VYMY94).
-	- This space is for shared posts you want everyone to see:
-	  ![[Screen Shot 2022-09-17 at 6.45.07 PM.png\|Screen Shot 2022-09-17 at 6.45.07 PM.png]]
-	- This space is for private portfolio posts that will only be seen by Mr. Gordon:
-	  ![[Screen Shot 2022-09-17 at 6.45.28 PM.png\|Screen Shot 2022-09-17 at 6.45.28 PM.png]]
-4. Complete your [Name Coach profile](https://www.name-coach.com/events/name-profile/registrations/new)
-	- Please post this to the private portfolio space on Spaces.
-5. Think-Pair-Share: Computer Productivity Tips
-	- See the great posts in our shared class space [on Spaces](https://ca.spacesedu.com/).
-6. Setting Up Course Folders
-	- Create subject folders for all your courses on your Desktop.
-	- Consider [creating hot corners](https://support.apple.com/en-ca/guide/mac-help/mchlp3000/mac) for key actions on your Mac.
+1. Activity: Ultimate Rock-Paper-Scissors
+1. Course Outline
+1. Required Course Materials
+1. Tutorial: Syncing Files from Cloud Storage
+1. Activity: Parsing Instructions
+1. Notion
+1. Tutorial: Hot Corners
+1. Discussion: Productivity Tips
+1. Portfolio: First Post
+
 #### To-do items
-- [ ] Be sure you've completed your [Name Coach profile](https://www.name-coach.com/events/name-profile/registrations/new) and posted it in the private portfolio space [on Spaces](https://ca.spacesedu.com/).
+- [ ] Be sure you've made a first post in your portfolio [on Notion](https://notion.so).
