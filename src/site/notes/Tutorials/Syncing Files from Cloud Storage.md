@@ -12,13 +12,13 @@ What does that mean?
 
 When you open the Finder in macOS, you are viewing files kept on a storage device:
 
-![[Screenshot 2023-09-11 at 5.44.57 AM.png\|Screenshot 2023-09-11 at 5.44.57 AM.png]]
+![Screenshot 2023-09-11 at 5.44.57 AM.png](/img/user/Media/Screenshot%202023-09-11%20at%205.44.57%20AM.png)
 
 That storage device physically exists inside your computer.
 
 Modern computers typically include a storage device known as a *solid state drive* or SSD, which can look like this (an SSD can come in several different sizes):
 
-![[1024px-Intel_512G_M2_Solid_State_Drive.jpg\|500]]
+![1024px-Intel_512G_M2_Solid_State_Drive.jpg|500](/img/user/Media/1024px-Intel_512G_M2_Solid_State_Drive.jpg)
 <small>Photo by <a href="https://commons.wikimedia.org/wiki/File:Intel_512G_M2_Solid_State_Drive.jpg">David290</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</small>
 
 All storage devices have a *finite*, or limited, amount of space in which to hold files.
@@ -27,19 +27,19 @@ You can see how much space remains on your computer's local storage in several w
 
 Here is one way. Open the Finder by clicking it's icon in the Dock:
 
-![[Screenshot 2023-09-11 at 5.54.53 AM.png\|150]]
+![Screenshot 2023-09-11 at 5.54.53 AM.png|150](/img/user/Media/Screenshot%202023-09-11%20at%205.54.53%20AM.png)
 
 Navigate to the Applications folder:
 
-![[Screenshot 2023-09-11 at 5.44.57 AM copy.png\|Screenshot 2023-09-11 at 5.44.57 AM copy.png]]
+![Screenshot 2023-09-11 at 5.44.57 AM copy.png](/img/user/Media/Screenshot%202023-09-11%20at%205.44.57%20AM%20copy.png)
 
 Then from the **View** menu, select **Show Status Bar**:
 
-![[Screenshot 2023-09-11 at 5.45.25 AM.png\|Screenshot 2023-09-11 at 5.45.25 AM.png]]
+![Screenshot 2023-09-11 at 5.45.25 AM.png](/img/user/Media/Screenshot%202023-09-11%20at%205.45.25%20AM.png)
 
 The amount of local storage space remaining now appears at the bottom of the window:
 
-![[Screenshot 2023-09-11 at 5.45.32 AM.png\|Screenshot 2023-09-11 at 5.45.32 AM.png]]
+![Screenshot 2023-09-11 at 5.45.32 AM.png](/img/user/Media/Screenshot%202023-09-11%20at%205.45.32%20AM.png)
 
 ### Advantages of local storage
 
@@ -77,13 +77,13 @@ Your computer communicates with computers "in the cloud" over the Internet.
 
 A *server farm* is a facility that contains dozens or hundreds of computers working together to offer services – such as cloud storage of files – to a large number of customers:
 
-![[78981814_034d60a302_k.jpg\|500]]
+![78981814_034d60a302_k.jpg|500](/img/user/Media/78981814_034d60a302_k.jpg)
 
 <small>Photo by <a href="https://www.flickr.com/photos/50642338@N00/78981814">sfllaw</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>, via Flickr</small>
 
 Mr. Gordon has two cloud storage systems connected to his computer:
 
-![[Screenshot 2023-09-11 at 5.44.57 AM copy 2.png\|Screenshot 2023-09-11 at 5.44.57 AM copy 2.png]]
+![Screenshot 2023-09-11 at 5.44.57 AM copy 2.png](/img/user/Media/Screenshot%202023-09-11%20at%205.44.57%20AM%20copy%202.png)
 
 As a student at LCS you have access to Google Drive, a cloud storage system provided by Google.
 ### Advantages of cloud storage
@@ -114,110 +114,110 @@ You may need to log in using your LCS email address and password.
 
 Afterwards, you'll see an interface something like this:
 
-![[Screenshot 2023-09-10 at 8.44.06 PM.png\|Screenshot 2023-09-10 at 8.44.06 PM.png]]
+![Screenshot 2023-09-10 at 8.44.06 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.44.06%20PM.png)
 
 Or maybe like this:
 
-![[Screenshot 2023-09-10 at 8.43.55 PM.png\|Screenshot 2023-09-10 at 8.43.55 PM.png]]
+![Screenshot 2023-09-10 at 8.43.55 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.43.55%20PM.png)
 
 Click the gear icon in the top right, and then click **Get Drive for desktop**:
 
-![[Screenshot 2023-09-10 at 8.45.05 PM.png\|Screenshot 2023-09-10 at 8.45.05 PM.png]]
+![Screenshot 2023-09-10 at 8.45.05 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.45.05%20PM.png)
 
 If you use Safari – a fast, energy-efficient, and privacy-focused web browser – the resulting pop-up window may be blocked:
 
-![[Screenshot 2023-09-10 at 8.45.18 PM.png\|Screenshot 2023-09-10 at 8.45.18 PM.png]]
+![Screenshot 2023-09-10 at 8.45.18 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.45.18%20PM.png)
 
 Just select the option to show the blocked pop-up window, since we know the pop-up window was created by something that we chose to do (as opposed to appearing randomly when we visited a web page):
 
-![[Screenshot 2023-09-10 at 8.45.18 PM 1.png\|Screenshot 2023-09-10 at 8.45.18 PM 1.png]]
+![Screenshot 2023-09-10 at 8.45.18 PM 1.png](/img/user/Media/Screenshot%202023-09-10%20at%208.45.18%20PM%201.png)
 
 Then tap the **Download Drive for desktop** button:
 
-![[Screenshot 2023-09-10 at 8.45.26 PM.png\|Screenshot 2023-09-10 at 8.45.26 PM.png]]
+![Screenshot 2023-09-10 at 8.45.26 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.45.26%20PM.png)
 
 Allow the file to be downloaded – since we know and trust the source of the download:
 
-![[Screenshot 2023-09-10 at 8.45.33 PM.png\|Screenshot 2023-09-10 at 8.45.33 PM.png]]
+![Screenshot 2023-09-10 at 8.45.33 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.45.33%20PM.png)
 
 Then select the downloads queue, and navigate to the location of the file:
 
-![[Screenshot 2023-09-10 at 8.45.43 PM.png\|Screenshot 2023-09-10 at 8.45.43 PM.png]]
+![Screenshot 2023-09-10 at 8.45.43 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.45.43%20PM.png)
 
 The interface for finding a downloaded file looks a little different in other web browsers, but the file will most likely have been placed in the Downloads folder on your computer:
 
-![[Screenshot 2023-09-10 at 8.45.56 PM.png\|Screenshot 2023-09-10 at 8.45.56 PM.png]]
+![Screenshot 2023-09-10 at 8.45.56 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.45.56%20PM.png)
 
 ### Run the installer
 
 Double-click to open the **GoogleDrive.dmg** file that was downloaded, and you will see this:
 
-![[Screenshot 2023-09-10 at 8.46.39 PM.png\|Screenshot 2023-09-10 at 8.46.39 PM.png]]
+![Screenshot 2023-09-10 at 8.46.39 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.46.39%20PM.png)
 
 Double-click the **GoogleDrive.pkg** file to run the **Drive for desktop** installer program, then press **Continue**:
 
-![[Screenshot 2023-09-10 at 8.46.44 PM.png\|500]]
+![Screenshot 2023-09-10 at 8.46.44 PM.png|500](/img/user/Media/Screenshot%202023-09-10%20at%208.46.44%20PM.png)
 
 On the next screen, select **Install**:
 
-![[Screenshot 2023-09-10 at 8.46.48 PM.png\|500]]
+![Screenshot 2023-09-10 at 8.46.48 PM.png|500](/img/user/Media/Screenshot%202023-09-10%20at%208.46.48%20PM.png)
 
 At this point, you will likely be prompted to provide the password for your computer's user account:
 
-![[Screenshot 2023-09-10 at 8.46.52 PM.png\|200]]
+![Screenshot 2023-09-10 at 8.46.52 PM.png|200](/img/user/Media/Screenshot%202023-09-10%20at%208.46.52%20PM.png)
 
 Unless you have changed it, that is the same password you use to log in to your LCS email account. Once you've typed your password, select **Install Software**:
 
-![[Screenshot 2023-09-10 at 8.47.28 PM.png\|200]]
+![Screenshot 2023-09-10 at 8.47.28 PM.png|200](/img/user/Media/Screenshot%202023-09-10%20at%208.47.28%20PM.png)
 
 After a few minutes, you'll see a confirmation that the install was successful:
 
-![[Screenshot 2023-09-10 at 8.47.52 PM.png\|500]]
+![Screenshot 2023-09-10 at 8.47.52 PM.png|500](/img/user/Media/Screenshot%202023-09-10%20at%208.47.52%20PM.png)
 
 You might see this message appear in the top-right corner of your computer:
 
-![[Screenshot 2023-09-10 at 8.48.01 PM.png\|300]]
+![Screenshot 2023-09-10 at 8.48.01 PM.png|300](/img/user/Media/Screenshot%202023-09-10%20at%208.48.01%20PM.png)
 
 That is OK. It means that the Drive for desktop app will be updated automatically by Google in the background, when needed. You can dismiss that dialog box.
 
 In a moment, this dialog box will appear:
 
-![[Screenshot 2023-09-10 at 8.47.56 PM.png\|300]]
+![Screenshot 2023-09-10 at 8.47.56 PM.png|300](/img/user/Media/Screenshot%202023-09-10%20at%208.47.56%20PM.png)
 
 Select **Sign in with browser** and go through the sign-in process:
 
-![[Screenshot 2023-09-10 at 8.48.14 PM.png\|Screenshot 2023-09-10 at 8.48.14 PM.png]]
+![Screenshot 2023-09-10 at 8.48.14 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.48.14%20PM.png)
 
 You did download the app from Google, so you can choose **Sign in** on this page:
 
-![[Screenshot 2023-09-10 at 8.48.22 PM.png\|Screenshot 2023-09-10 at 8.48.22 PM.png]]
+![Screenshot 2023-09-10 at 8.48.22 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.48.22%20PM.png)
 
 After a moment, you will see this message – you can close the window when you see it:
 
-![[Screenshot 2023-09-10 at 8.48.26 PM.png\|Screenshot 2023-09-10 at 8.48.26 PM.png]]
+![Screenshot 2023-09-10 at 8.48.26 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.48.26%20PM.png)
 
 You will see the following dialog pop up – go ahead and select **Open Preferences**:
 
-![[Screenshot 2023-09-10 at 8.48.34 PM.png\|300]]
+![Screenshot 2023-09-10 at 8.48.34 PM.png|300](/img/user/Media/Screenshot%202023-09-10%20at%208.48.34%20PM.png)
 
 You don't need a tour, so select **No thanks** here:
 
-![[Screenshot 2023-09-10 at 8.48.45 PM.png\|500]]
+![Screenshot 2023-09-10 at 8.48.45 PM.png|500](/img/user/Media/Screenshot%202023-09-10%20at%208.48.45%20PM.png)
 
 macOS may show you a dialog box like this – go ahead and select OK here to start syncing files from the cloud to the local storage device on your computer:
 
-![[Screenshot 2023-09-10 at 8.48.55 PM.png\|250]]
+![Screenshot 2023-09-10 at 8.48.55 PM.png|250](/img/user/Media/Screenshot%202023-09-10%20at%208.48.55%20PM.png)
 
 Next, you will see a dialog like this:
 
-![[Screenshot 2023-09-10 at 8.49.03 PM.png\|500]]
+![Screenshot 2023-09-10 at 8.49.03 PM.png|500](/img/user/Media/Screenshot%202023-09-10%20at%208.49.03%20PM.png)
 
 Go ahead and select **OK**. You can choose to sync files in one of two ways:
 
 - Stream files
 - Mirror files
 
-![[Screenshot 2023-09-10 at 8.49.21 PM.png\|Screenshot 2023-09-10 at 8.49.21 PM.png]]
+![Screenshot 2023-09-10 at 8.49.21 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.49.21%20PM.png)
 
 If you choose to mirror files, a local copy of each file in your Google Drive in the cloud is always kept on your computer.
 
@@ -229,22 +229,22 @@ Make the selection that is best for you. You can then close the preferences wind
 
 The **Drive for desktop** installer may finally show you this message:
 
-![[Screenshot 2023-09-10 at 8.49.48 PM.png\|500]]
+![Screenshot 2023-09-10 at 8.49.48 PM.png|500](/img/user/Media/Screenshot%202023-09-10%20at%208.49.48%20PM.png)
 
 Since you do not need the installer program any more, you can go ahead and select **Move to Trash**. You may then need to quit the installer program. You can do this using the **Command-Q** keyboard shortcut.
 ### Accessing your files
 
 After installing **Drive for desktop** you will see there is now a new location – **Google Drive** – in the sidebar of your Finder windows:
 
-![[Screenshot 2023-09-10 at 8.50.11 PM.png\|Screenshot 2023-09-10 at 8.50.11 PM.png]]
+![Screenshot 2023-09-10 at 8.50.11 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.50.11%20PM.png)
 
 Double-click into the **My Drive** folder and you will see more files and folders:
 
-![[Screenshot 2023-09-10 at 8.50.16 PM.png\|Screenshot 2023-09-10 at 8.50.16 PM.png]]
+![Screenshot 2023-09-10 at 8.50.16 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.50.16%20PM.png)
 
 These are a duplicate of the files and folders you have created in Google Drive for the web:
 
-![[Screenshot 2023-09-10 at 8.51.52 PM.png\|Screenshot 2023-09-10 at 8.51.52 PM.png]]
+![Screenshot 2023-09-10 at 8.51.52 PM.png](/img/user/Media/Screenshot%202023-09-10%20at%208.51.52%20PM.png)
 
 ### Organizing your files
 
