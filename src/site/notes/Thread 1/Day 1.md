@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thread-1/day-1/","tags":["B2.1","C1.1","C1.2"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/thread-1/day-1/","dgHomeLink":true}
 ---
 
 ### Thread 1, Day 1 - Tuesday, September 12, 2023
