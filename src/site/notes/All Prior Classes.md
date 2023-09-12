@@ -20,12 +20,12 @@
 #### Agenda
 1. Activity: [[Activities/Ultimate Rock-Paper-Scissors\|Ultimate Rock-Paper-Scissors]]
 1. [Course Outline](https://drive.google.com/file/d/1dRBdmlN6Gu955Lw10bWbd8QZ2_GojEEB/view)
-1. Required Course Materials
+1. 1. Required Course Materials
 	- Hardcover notebooks with graph paper, and copies of [A Pocket Guide to Debugging](https://store.wizardzines.com/products/the-pocket-guide-to-debugging) were distributed.
 	- Costs will be billed back to your family's account.
 	> [!NOTE]
 	> If you missed today's class, see Mr. Gordon in class or during [[Grove Time\|Grove Time]] to obtain these required course materials.
-1. Tutorial: Syncing Files from Cloud Storage
+1. Tutorial: [[Tutorials/Syncing Files from Cloud Storage\|Syncing Files from Cloud Storage]]
 1. Portfolio: Creating a Notion Account
 1. Tutorial: Creating Bookmarks
 1. Portfolio: First Post
