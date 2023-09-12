@@ -15,7 +15,7 @@
 
 #### To-do items
 *If you were present for today's class...*
-- [ ] Be sure you have completed your first portfolio post to summarize what you learned and ask any questions you may have.
+- [ ] Be sure you have [[Portfolios/First Post\|written your first portfolio post]] to summarize what you learned and ask any questions you may have.
 
 *If you were absent for today's class...*
 - [ ] Review the overall agenda.
