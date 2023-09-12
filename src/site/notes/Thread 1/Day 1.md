@@ -12,11 +12,10 @@
 	> [!NOTE]
 	> If you missed today's class, see Mr. Gordon in class or during [[Grove Time\|Grove Time]] to obtain these required course materials.
 1. Tutorial: [[Tutorials/Syncing Files from Cloud Storage\|Syncing Files from Cloud Storage]]
-1. Portfolio: Creating a Notion Account
-1. Tutorial: Creating Bookmarks
-1. Portfolio: First Post
-1. Tutorial: Hot Corners
-
+1. Portfolio: [[Portfolios/Creating a Notion Account\|Creating a Notion Account]]
+1. Tutorial: [[Tutorials/Creating Bookmarks\|Creating Bookmarks]] 
+1. Portfolio: [[Portfolios/First Post\|First Post]]
+1. Tutorial: [[Tutorials/Hot Corners\|Hot Corners]]
 #### To-do items
 *If you were present for today's class...*
 - [ ] Be sure you have [[Portfolios/First Post\|written your first portfolio post]] to summarize what you learned and ask any questions you may have.
