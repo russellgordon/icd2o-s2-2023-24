@@ -13,7 +13,7 @@
 #### Agenda
 1. Activity: [[Activities/Ultimate Rock-Paper-Scissors\|Ultimate Rock-Paper-Scissors]]
 1. [Course Outline](https://drive.google.com/file/d/1dRBdmlN6Gu955Lw10bWbd8QZ2_GojEEB/view)
-1. 1. Required Course Materials
+1. Required Course Materials
 	- Hardcover notebooks with graph paper, and copies of [A Pocket Guide to Debugging](https://store.wizardzines.com/products/the-pocket-guide-to-debugging) were distributed.
 	- Costs will be billed back to your family's account.
 	> [!NOTE]
