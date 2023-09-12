@@ -18,8 +18,8 @@
 
 ### Thread 1, Day 1 - Tuesday, September 12, 2023
 #### Agenda
-1. Activity: Ultimate Rock-Paper-Scissors
-1. Course Outline
+1. Activity: [[Activities/Ultimate Rock-Paper-Scissors\|Ultimate Rock-Paper-Scissors]]
+1. [Course Outline](https://drive.google.com/file/d/1dRBdmlN6Gu955Lw10bWbd8QZ2_GojEEB/view)
 1. Required Course Materials
 1. Tutorial: Syncing Files from Cloud Storage
 1. Portfolio: Creating a Notion Account
