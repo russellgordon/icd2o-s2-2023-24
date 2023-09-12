@@ -15,14 +15,19 @@
 1. Course Outline
 1. Required Course Materials
 1. Tutorial: Syncing Files from Cloud Storage
-1. Activity: Parsing Instructions
-1. Notion
-1. Tutorial: Hot Corners
-1. Discussion: Productivity Tips
+1. Portfolio: Creating a Notion Account
+1. Tutorial: Creating Bookmarks
 1. Portfolio: First Post
+1. Tutorial: Hot Corners
 
 #### To-do items
-- [ ] Be sure you've made a first post in your portfolio [on Notion](https://notion.so).
+*If you were present for today's class...*
+- [ ] Be sure you have completed your first portfolio post to summarize what you learned and ask any questions you may have.
+
+*If you were absent for today's class...*
+- [ ] Review the overall agenda.
+- [ ] Read the activity summary for Ultimate Rock-Paper-Scissors.
+- [ ] Then complete the tutorials, and get started on creating your portfolio, by following links from the agenda in the order given above.
 
 </div></div>
 
