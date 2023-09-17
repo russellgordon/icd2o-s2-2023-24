@@ -97,7 +97,15 @@ body {
     blockquote {
         padding-left: 20px;
     }
+
+    /* Ensure indent is consistent for lists (multiple lines are aligned) */
+    ul > li.task-list-item {
+        list-style: square;
+    }
     
+    li.task-list-item > input {
+        display: none;
+    }
 
 }
 
