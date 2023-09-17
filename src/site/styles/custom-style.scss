@@ -101,6 +101,8 @@ body {
     /* Ensure indent is consistent for lists (multiple lines are aligned) */
     ul > li.task-list-item {
         list-style: square;
+        list-style-type: "\25A2";
+        padding-left: 0.5em;
     }
     
     li.task-list-item > input {
