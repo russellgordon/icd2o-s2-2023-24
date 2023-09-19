@@ -23,7 +23,7 @@
 2. Activity: [[Activities/Parsing Instructions\|Parsing Instructions]]
 3. Setup: [[Setup/Installing Playgrounds\|Installing Playgrounds]]
 4. Setup: [[Setup/Subscribe to Turtle Sketches\|Subscribe to Turtle Sketches]]
-5. Activity: Shapes
+5. Activity: [[Activities/Shapes\|Shapes]]
 ### To-do items
 *If you were present for today's class...*
 - [ ] If you were not able to install Playgrounds, be sure to update your computer's operating system. 
