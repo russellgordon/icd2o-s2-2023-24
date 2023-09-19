@@ -26,7 +26,7 @@
 5. Activity: [[Activities/Shapes\|Shapes]]
 ### To-do items
 *If you were present for today's class...*
-- [ ] If you were not able to install Playgrounds, be sure to update your computer's operating system. 
+- [ ] If you were not able to install Playgrounds, be sure to [[Setup/macOS Ventura\|update your computer's operating system]]. 
 - [ ] Be sure you have completed the Shapes activity.
 - [ ] Write a post on [Notion](https://notion.so) to respond to the reflection prompts provided.
 
