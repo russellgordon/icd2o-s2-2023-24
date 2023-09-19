@@ -11,7 +11,7 @@
 
 ### Thread 1, Day 2 - Tuesday, September 19, 2023
 #### Agenda
-1. Portfolio: Reviewing Replies and Making Improvements
+1. Portfolio: [[Portfolios/Reviewing Replies and Making Improvements\|Reviewing Replies and Making Improvements]]
 2. Activity: Parsing Instructions
 3. Setup: Installing Playgrounds
 4. Setup: Subscribe to Turtle Sketches
