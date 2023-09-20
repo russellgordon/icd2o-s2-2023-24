@@ -13,7 +13,7 @@
 *If you were present today...*
 - [ ] If you were not able to install Playgrounds, be sure to [[Setup/macOS Ventura\|update your computer's operating system]]. 
 - [ ] Be sure you have completed the Shapes activity.
-- [ ] Write a post on [Notion](https://notion.so) to respond to the reflection prompts provided.
+- [ ] Write a post on [Notion](https://notion.so) to [[Activities/Shapes#Reflection prompts\|respond to the reflection prompts provided]].
 
 *If you were absent today...*
 - [ ] Review the overall agenda.
