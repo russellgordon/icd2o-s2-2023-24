@@ -24,13 +24,13 @@
 3. Setup: [[Setup/Installing Playgrounds\|Installing Playgrounds]]
 4. Setup: [[Setup/Subscribe to Turtle Sketches\|Subscribe to Turtle Sketches]]
 5. Activity: [[Activities/Shapes\|Shapes]]
-### To-do items
-*If you were present for today's class...*
+### Things to do before our next class
+*If you were present...*
 - [ ] If you were not able to install Playgrounds, be sure to [[Setup/macOS Ventura\|update your computer's operating system]]. 
 - [ ] Be sure you have completed the Shapes activity.
 - [ ] Write a post on [Notion](https://notion.so) to respond to the reflection prompts provided.
 
-*If you were absent for today's class...*
+*If you were absent...*
 - [ ] Review the overall agenda.
 - [ ] Make improvements to your portfolio, based on the individualized feedback you received.
 - [ ] Read the activity summary for Parsing Instructions.
@@ -58,11 +58,11 @@
 1. Tutorial: [[Tutorials/Creating Bookmarks\|Creating Bookmarks]] 
 1. Portfolio: [[Portfolios/First Post\|First Post]]
 1. Tutorial: [[Tutorials/Hot Corners\|Hot Corners]]
-#### To-do items
-*If you were present for today's class...*
+#### Things to do before our next class
+*If you were present...*
 - [ ] Be sure you have [[Portfolios/First Post\|written your first portfolio post]] to summarize what you learned and ask any questions you may have.
 
-*If you were absent for today's class...*
+*If you were absent...*
 - [ ] Review the overall agenda.
 - [ ] Read the activity summary for Ultimate Rock-Paper-Scissors.
 - [ ] Then complete the tutorials, and get started on creating your portfolio, by following links from the agenda in the order given above.
