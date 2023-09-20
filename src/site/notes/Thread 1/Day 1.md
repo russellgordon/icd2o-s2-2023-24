@@ -17,10 +17,10 @@
 1. Portfolio: [[Portfolios/First Post\|First Post]]
 1. Tutorial: [[Tutorials/Hot Corners\|Hot Corners]]
 #### Things to do before our next class
-*If you were present...*
+*If you were present today...*
 - [ ] Be sure you have [[Portfolios/First Post\|written your first portfolio post]] to summarize what you learned and ask any questions you may have.
 
-*If you were absent...*
+*If you were absent today...*
 - [ ] Review the overall agenda.
 - [ ] Read the activity summary for Ultimate Rock-Paper-Scissors.
 - [ ] Then complete the tutorials, and get started on creating your portfolio, by following links from the agenda in the order given above.
