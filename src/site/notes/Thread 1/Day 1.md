@@ -16,11 +16,11 @@
 1. Tutorial: [[Tutorials/Creating Bookmarks\|Creating Bookmarks]] 
 1. Portfolio: [[Portfolios/First Post\|First Post]]
 1. Tutorial: [[Tutorials/Hot Corners\|Hot Corners]]
-#### To-do items
-*If you were present for today's class...*
+#### Things to do before our next class
+*If you were present...*
 - [ ] Be sure you have [[Portfolios/First Post\|written your first portfolio post]] to summarize what you learned and ask any questions you may have.
 
-*If you were absent for today's class...*
+*If you were absent...*
 - [ ] Review the overall agenda.
 - [ ] Read the activity summary for Ultimate Rock-Paper-Scissors.
 - [ ] Then complete the tutorials, and get started on creating your portfolio, by following links from the agenda in the order given above.
