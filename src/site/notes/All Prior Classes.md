@@ -20,10 +20,10 @@
 
 ### Thread 1, Day 3 - Thursday, September 21, 2023
 #### Agenda
-1. Activity: Shapes Code Review
+1. Activity: [[Activities/Shapes Code Review\|Shapes Code Review]]
 2. Activity: Going Slow to Go Fast 
 3. Demo: Keyboard Shortcuts When Coding
-4. Task: Name Plate
+4. Task: [[Tasks/Name Plate\|Name Plate]]
 ### Things to do before our next class
 *If you were present today...*
 - [ ] Be sure you have at least completed a clear plan for the Name Plate activity.
