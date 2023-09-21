@@ -4,29 +4,27 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-2/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-3/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 1, Day 2 - Tuesday, September 19, 2023
+### Thread 1, Day 3 - Thursday, September 21, 2023
 #### Agenda
-1. Portfolio: [[Portfolios/Reviewing Replies and Making Improvements\|Reviewing Replies and Making Improvements]]
-2. Activity: [[Activities/Parsing Instructions\|Parsing Instructions]]
-3. Setup: [[Setup/Installing Playgrounds\|Installing Playgrounds]]
-4. Setup: [[Setup/Subscribe to Turtle Sketches\|Subscribe to Turtle Sketches]]
-5. Activity: [[Activities/Shapes\|Shapes]]
+1. Activity: Shapes Code Review
+2. Activity: Going Slow to Go Fast 
+3. Demo: Keyboard Shortcuts When Coding
+4. Task: Name Plate
 ### Things to do before our next class
 *If you were present today...*
-- [ ] If you were not able to install Playgrounds, be sure to [[Setup/macOS Ventura\|update your computer's operating system]]. 
-- [ ] Be sure you have completed the Shapes activity.
-- [ ] Write a post on [Notion](https://notion.so) to [[Activities/Shapes#Reflection prompts\|respond to the reflection prompts provided]].
+- [ ] Be sure you have at least completed a clear plan for the Name Plate activity.
+- [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
 
 *If you were absent today...*
 - [ ] Review the overall agenda.
-- [ ] Make improvements to your portfolio, based on the individualized feedback you received.
-- [ ] Read the activity summary for Parsing Instructions.
-- [ ] Complete the setup steps and do your best to complete the Shapes activity independently.
+- [ ] Do your best to at least begin the Name Plate activity independently.
+
+
 
 </div></div>
 
