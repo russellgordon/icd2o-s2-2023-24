@@ -23,9 +23,11 @@
 
 ### Thread 1, Day 6 - Wednesday, September 27, 2023
 #### Agenda
-1. Concept: [[Concepts/Introduction to Loops\|Introduction to Loops]]
-2. Concept: [[Concepts/Introduction to Functions\|Introduction to Functions]]
-3. Activity: [[Activities/Analysing an Image\|Analysing an Image]]
+1. Portfolio: [[Learning Goals\|Learning Goals]]
+	- Understand the purpose of learning goals and how to tag evidence in your portfolio with a goal.
+2. Concept: [[Concepts/Introduction to Loops\|Introduction to Loops]]
+3. Concept: [[Concepts/Introduction to Functions\|Introduction to Functions]]
+4. Activity: [[Activities/Analysing an Image\|Analysing an Image]]
 	- Be sure to finish at least one round of this activity.
 	- If you completed an image yesterday, see Mr. Gordon to select another image to practice *abstraction* with – that is, the process of looking for where loops and functions can be applied.
 
