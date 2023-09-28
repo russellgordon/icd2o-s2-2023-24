@@ -7,6 +7,7 @@
 
 # Upcoming topics
 - Chat w/ Brandon re: "Zip bombs" and virus detection
+- camelCase examples
 - Lagging on posts: Jayden, Kevin, Brandon, Tessa, Thomas Chao
 - Tutorial: Enabling Web Page Translation in macOS
 - Tutorial: Abstraction Using Loops - Shapes Followup
