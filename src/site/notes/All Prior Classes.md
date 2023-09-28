@@ -8,12 +8,36 @@
 
 ### Thread 1
 
+- [[All Prior Classes#Thread 1, Day 7 - Thursday, September 28, 2023\|Day 7 - Thursday, September 28, 2023]]
 - [[All Prior Classes#Thread 1, Day 6 - Wednesday, September 27, 2023\|Day 6 - Wednesday, September 27, 2023]]
 - [[All Prior Classes#Thread 1, Day 5 - Tuesday, September 26, 2023\|Day 5 - Tuesday, September 26, 2023]]
 - [[All Prior Classes#Thread 1, Day 4 - Friday, September 22, 2023\|Day 4 - Friday, September 22, 2023]]
 - [[All Prior Classes#Thread 1, Day 3 - Thursday, September 21, 2023\|Day 3 - Thursday, September 21, 2023]]
 - [[All Prior Classes#Thread 1, Day 2 - Tuesday, September 19, 2023\|Day 2 - Tuesday, September 19, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, September 12, 2023\|Day 1 - Tuesday, September 12, 2023]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-7/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 1, Day 7 - Thursday, September 28, 2023
+#### Agenda
+1. Activity: [[Activities/Going Home Again\|Going Home Again]]
+	- A look at how a function can help us separate parts of a drawing.
+2. Task: [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]]
+	- Begin this task today.
+## Things to do before our next class
+*If you were present today...*
+- [ ] Get a start on the [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]] task.
+
+*If you were absent today...*
+- [ ] Review the overall agenda.
+- [ ] Do your best to get started on the [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]] task.
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-6/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
