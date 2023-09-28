@@ -6,7 +6,9 @@
 #### Agenda
 1. Activity: [[Activities/Going Home Again\|Going Home Again]]
 	- A look at how a function can help us separate parts of a drawing.
-2. Task: [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]]
+2. Activity: [[Activities/Analysing an Image\|Analysing an Image]]
+	- Be sure to finish at least one round of this activity.
+3. Task: [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]]
 	- Begin this task today.
 ## Things to do before our next class
 *If you were present today...*
