@@ -4,30 +4,24 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-6/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-7/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 1, Day 6 - Wednesday, September 27, 2023
+### Thread 1, Day 7 - Thursday, September 28, 2023
 #### Agenda
-1. Portfolio: [[Learning Goals\|Learning Goals]]
-	- Understand the purpose of learning goals and how to tag evidence in your portfolio with a goal.
-2. Concept: [[Concepts/Introduction to Loops\|Introduction to Loops]]
-3. Concept: [[Concepts/Introduction to Functions\|Introduction to Functions]]
-4. Activity: [[Activities/Analysing an Image\|Analysing an Image]]
-	- Be sure to finish at least one round of this activity.
-	- If you completed an image yesterday, see Mr. Gordon to select another image to practice *abstraction* with – that is, the process of looking for where loops and functions can be applied.
-
-### Things to do before our next class
+1. Activity: [[Activities/Going Home Again\|Going Home Again]]
+	- A look at how a function can help us separate parts of a drawing.
+2. Task: [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]]
+	- Begin this task today.
+## Things to do before our next class
 *If you were present today...*
-- [ ] Do your best to finish at least one round of the image analysis activity, including the [[Activities/Analysing an Image#Reflection prompts\|reflection prompts]] and final post on [Notion](https://notion.so).
+- [ ] Get a start on the [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]] task.
 
 *If you were absent today...*
 - [ ] Review the overall agenda.
-- [ ] Follow the links given and review the two new concepts that were introduced.
-- [ ] Do your best to finish the image analysis activity, including the [[Activities/Analysing an Image#Reflection prompts\|reflection prompts]] and final post on [Notion](https://notion.so).
-
+- [ ] Do your best to get started on the [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]] task.
 
 
 </div></div>
