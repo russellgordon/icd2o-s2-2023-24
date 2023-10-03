@@ -85,4 +85,4 @@ He [shared this post](https://genart.social/@sspboyd/111141477055446415) on Mast
 
 After reviewing his algorithm (or recipe) use your understanding of how to create shapes using the `turtle` in Swift Playgrounds to write code that implements it.
 
-Think about how you might use functions while authoring your code.
+Think about how you might use functions and loops while authoring your code.
