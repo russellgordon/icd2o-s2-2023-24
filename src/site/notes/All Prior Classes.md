@@ -34,8 +34,10 @@
 		
 		> [!TIP]
 		> Be sure to review the [success criteria](https://icd2o-s2-2023-24.russellgordon.ca/tasks/t-shirt-shadow-prints/#success-criteria) for the task. Is there a post in your portfolio to provide evidence for each look-for?
-1. Activity: [[Activities/Keyboard Shortcuts\|Keyboard Shortcuts]] 
+2. Activity: [[Activities/Keyboard Shortcuts\|Keyboard Shortcuts]] 
 	- Try this out if you are finished your T-Shirt Shadow Prints code.
+3. Activity: [[Activities/Introduction to Generative Art\|Introduction to Generative Art]]
+	- Once you have learned about some keyboard shortcuts, review this activity and see what you can do. 🚀
 ## Things to do before our next class
 - [ ] If you did not make your T-shirt today, please submit your code no later than 10 PM this evening.
 
