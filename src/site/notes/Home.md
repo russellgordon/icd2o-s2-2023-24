@@ -4,12 +4,12 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-10/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 1, Day 9 - Tuesday, October 3, 2023
+### Thread 1, Day 10 - Wednesday, October 4, 2023
 #### Agenda
 1. Task: [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]]
 	- Some students will be making their shirt in today's class; remaining students are to finish off their code.
@@ -24,6 +24,7 @@
 	- Once you have learned about some keyboard shortcuts, review this activity and see what you can do. 🚀
 ## Things to do before our next class
 - [ ] If you did not make your T-shirt today, please submit your code no later than 10 PM this evening.
+- [ ] If you worked on one of the activities above today, be sure to add an entry or two to your portfolio on [Notion](https://notion.so). What [[Learning Goals\|learning goal]] did you generate new evidence of understanding for?
 
 </div></div>
 
