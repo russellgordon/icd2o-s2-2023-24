@@ -109,7 +109,7 @@ If you have more than three pieces of evidence for each learning goal above, or,
 Please make a post [on Notion](https://notion.so), answering the following questions:
 
 1. Based on your self-assessment, are you currently approaching, meeting, or exceeding expectations?
-2. What evidence do you have for your response to prior question?
+2. What evidence do you have for your response to the prior question?
 3. What is one goal that you can set to improve before the end of this module?
 4. What specific step(s) might you take to achieve that goal?
 
