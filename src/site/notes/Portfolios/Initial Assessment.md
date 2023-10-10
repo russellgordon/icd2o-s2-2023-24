@@ -113,4 +113,4 @@ Please make a post [on Notion](https://notion.so), answering the following quest
 3. What is one goal that you can set to improve before the end of this module?
 4. What specific step(s) might you take to achieve that goal?
 
-An entry in Edsby will be made by Mr. Gordon to reflect your self-assessment of your current standing in the course. No numeric grade will be issued at this point in time.
+An entry in Edsby will be made by Mr. Gordon to reflect your self-assessment of your current standing in the course. No numeric grade will be published at this point in time.
