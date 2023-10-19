@@ -39,7 +39,7 @@
 2. Task: Complete Remaining Initiatives
 	- Each of you have initiatives or activities you are working to complete.
 	- When you are not speaking with Mr. Gordon today, you have time to complete those initiatives.
-## Things to do before our next class
+#### Things to do before our next class
 - [ ] Be sure to add portfolio entries in [Notion](https://notion.so) after working in class today. What [[Learning Goals\|learning goal]] did you generate new evidence of understanding for?
 
 </div></div>
@@ -61,7 +61,7 @@
 	- Define your own set of rules to create original work(s) of generative art.
 4. Activity: [[Activities/Colour Models\|Colour Models]]
 	- Learn about how to work with colour in more interesting ways.
-## Things to do before our next class
+#### Things to do before our next class
 - [ ] Be sure to add portfolio entries in [Notion](https://notion.so) after completing the activities described above. What [[Learning Goals\|learning goal]] did you generate new evidence of understanding for?
 
 </div></div>
@@ -85,7 +85,7 @@
 	- Once you have learned about some keyboard shortcuts, review this activity and see what you can do. 🚀
 5. Activity: [[Activities/Creating Original Generative Art\|Creating Original Generative Art]]
 	- Define your own set of rules to create original work(s) of generative art.
-## Things to do before our next class
+#### Things to do before our next class
 - [ ] Be sure to add portfolio entries in [Notion](https://notion.so) after completing the activities described above. What [[Learning Goals\|learning goal]] did you generate new evidence of understanding for?
 
 </div></div>
@@ -106,7 +106,7 @@
 	- Try this out if you are finished your T-Shirt Shadow Prints code.
 3. Activity: [[Activities/Introduction to Generative Art\|Introduction to Generative Art]]
 	- Once you have learned about some keyboard shortcuts, review this activity and see what you can do. 🚀
-## Things to do before our next class
+#### Things to do before our next class
 - [ ] Be sure to add portfolio entries in [Notion](https://notion.so) after completing the activities described above. What [[Learning Goals\|learning goal]] did you generate new evidence of understanding for?
 
 </div></div>
@@ -130,7 +130,7 @@
 	- Try this out if you are finished your T-Shirt Shadow Prints code.
 3. Activity: [[Activities/Introduction to Generative Art\|Introduction to Generative Art]]
 	- Once you have learned about some keyboard shortcuts, review this activity and see what you can do. 🚀
-## Things to do before our next class
+#### Things to do before our next class
 - [ ] If you did not make your T-shirt today, please submit your code no later than 10 PM this evening.
 - [ ] If you worked on one of the activities above today, be sure to add an entry or two to your portfolio on [Notion](https://notion.so). What [[Learning Goals\|learning goal]] did you generate new evidence of understanding for?
 
@@ -155,7 +155,7 @@
 	- Try this out if you are finished your T-Shirt Shadow Prints code.
 3. Activity: [[Activities/Introduction to Generative Art\|Introduction to Generative Art]]
 	- Once you have learned about some keyboard shortcuts, review this activity and see what you can do. 🚀
-## Things to do before our next class
+#### Things to do before our next class
 - [ ] If you did not make your T-shirt today, please submit your code no later than 10 PM this evening.
 
 </div></div>
@@ -170,7 +170,7 @@
 #### Agenda
 1. Task: [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]]
 	- A working period to make progress on this task.
-## Things to do before our next class
+#### Things to do before our next class
 - [ ] If you will *not* be on the OE overnight early next week, finish your code and do a [[Tasks/T-Shirt Shadow Prints#Reflection prompts\|"final entry" on Notion]] by 10 PM on Monday evening. This will give Mr. Gordon time to make your transparency on Tuesday morning before our class, when you will make your T-shirt.
 - [ ] If you *are* on the overnight, be sure your [[Tasks/T-Shirt Shadow Prints#Reflection prompts\|code is completed and handed in]] by Tuesday evening at 10 PM, so that Mr. Gordon has time to create a transparency of your drawing before Wednedsay, when you will make your T-shirt.
 
@@ -190,7 +190,7 @@
 	- Be sure to finish at least one round of this activity.
 3. Task: [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]]
 	- Begin this task today.
-## Things to do before our next class
+#### Things to do before our next class
 *If you were present today...*
 - [ ] Get a start on the [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]] task.
 
@@ -217,7 +217,7 @@
 	- Be sure to finish at least one round of this activity.
 	- If you completed an image yesterday, see Mr. Gordon to select another image to practice *abstraction* with – that is, the process of looking for where loops and functions can be applied.
 
-### Things to do before our next class
+##### Things to do before our next class
 *If you were present today...*
 - [ ] Do your best to finish at least one round of the image analysis activity, including the [[Activities/Analysing an Image#Reflection prompts\|reflection prompts]] and final post on [Notion](https://notion.so).
 
@@ -250,7 +250,7 @@
 4. Concept: [[Concepts/Introduction to Functions\|Introduction to Functions]]
 5. Activity: [[Activities/Analysing an Image\|Analysing an Image]]
 
-### Things to do before our next class
+##### Things to do before our next class
 *If you were present today...*
 - [ ] Do your best to finish the image analysis activity, including the [[Activities/Analysing an Image#Reflection prompts\|reflection prompts]] and final post on [Notion](https://notion.so).
 
@@ -284,7 +284,7 @@
 	  > ![Screenshot 2023-09-22 at 1.05.59 PM.png](/img/user/Media/Screenshot%202023-09-22%20at%201.05.59%20PM.png)
 	  > HINT: To draw curves, experiment with the `addArc` command.
 	  
-### Things to do before our next class
+##### Things to do before our next class
 *If you were present today...*
 - [ ] Be sure you have completed the Name Plate activity, optionally, with the extension described above.
 - [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
@@ -309,7 +309,7 @@
 2. Activity: Going Slow to Go Fast 
 3. Demo: Keyboard Shortcuts When Coding
 4. Task: [[Tasks/Name Plate\|Name Plate]]
-### Things to do before our next class
+##### Things to do before our next class
 *If you were present today...*
 - [ ] Be sure you have at least completed a clear plan for the Name Plate activity.
 - [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
@@ -335,7 +335,7 @@
 3. Setup: [[Setup/Installing Playgrounds\|Installing Playgrounds]]
 4. Setup: [[Setup/Subscribe to Turtle Sketches\|Subscribe to Turtle Sketches]]
 5. Activity: [[Activities/Shapes\|Shapes]]
-### Things to do before our next class
+##### Things to do before our next class
 *If you were present today...*
 - [ ] If you were not able to install Playgrounds, be sure to [[Setup/macOS Ventura\|update your computer's operating system]]. 
 - [ ] Be sure you have completed the Shapes activity.
@@ -369,7 +369,7 @@
 1. Tutorial: [[Tutorials/Creating Bookmarks\|Creating Bookmarks]] 
 1. Portfolio: [[Portfolios/First Post\|First Post]]
 1. Tutorial: [[Tutorials/Hot Corners\|Hot Corners]]
-#### Things to do before our next class
+###### Things to do before our next class
 *If you were present today...*
 - [ ] Be sure you have [[Portfolios/First Post\|written your first portfolio post]] to summarize what you learned and ask any questions you may have.
 
