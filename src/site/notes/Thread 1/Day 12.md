@@ -15,5 +15,5 @@
 	- Once you have learned about some keyboard shortcuts, review this activity and see what you can do. 🚀
 5. Activity: [[Activities/Creating Original Generative Art\|Creating Original Generative Art]]
 	- Define your own set of rules to create original work(s) of generative art.
-## Things to do before our next class
+#### Things to do before our next class
 - [ ] Be sure to add portfolio entries in [Notion](https://notion.so) after completing the activities described above. What [[Learning Goals\|learning goal]] did you generate new evidence of understanding for?
