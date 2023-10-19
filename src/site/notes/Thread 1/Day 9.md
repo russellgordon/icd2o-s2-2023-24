@@ -15,5 +15,5 @@
 	- Try this out if you are finished your T-Shirt Shadow Prints code.
 3. Activity: [[Activities/Introduction to Generative Art\|Introduction to Generative Art]]
 	- Once you have learned about some keyboard shortcuts, review this activity and see what you can do. 🚀
-## Things to do before our next class
+#### Things to do before our next class
 - [ ] If you did not make your T-shirt today, please submit your code no later than 10 PM this evening.
