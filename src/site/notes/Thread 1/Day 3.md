@@ -8,7 +8,7 @@
 2. Activity: Going Slow to Go Fast 
 3. Demo: Keyboard Shortcuts When Coding
 4. Task: [[Tasks/Name Plate\|Name Plate]]
-### Things to do before our next class
+##### Things to do before our next class
 *If you were present today...*
 - [ ] Be sure you have at least completed a clear plan for the Name Plate activity.
 - [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
