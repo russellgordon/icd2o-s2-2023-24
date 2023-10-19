@@ -16,7 +16,7 @@
 1. Tutorial: [[Tutorials/Creating Bookmarks\|Creating Bookmarks]] 
 1. Portfolio: [[Portfolios/First Post\|First Post]]
 1. Tutorial: [[Tutorials/Hot Corners\|Hot Corners]]
-#### Things to do before our next class
+###### Things to do before our next class
 *If you were present today...*
 - [ ] Be sure you have [[Portfolios/First Post\|written your first portfolio post]] to summarize what you learned and ask any questions you may have.
 
