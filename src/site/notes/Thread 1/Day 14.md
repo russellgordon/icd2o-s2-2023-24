@@ -12,5 +12,5 @@
 2. Task: Complete Remaining Initiatives
 	- Each of you have initiatives or activities you are working to complete.
 	- When you are not speaking with Mr. Gordon today, you have time to complete those initiatives.
-## Things to do before our next class
+#### Things to do before our next class
 - [ ] Be sure to add portfolio entries in [Notion](https://notion.so) after working in class today. What [[Learning Goals\|learning goal]] did you generate new evidence of understanding for?
