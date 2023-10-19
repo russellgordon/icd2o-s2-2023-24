@@ -16,7 +16,7 @@
 4. Concept: [[Concepts/Introduction to Functions\|Introduction to Functions]]
 5. Activity: [[Activities/Analysing an Image\|Analysing an Image]]
 
-### Things to do before our next class
+##### Things to do before our next class
 *If you were present today...*
 - [ ] Do your best to finish the image analysis activity, including the [[Activities/Analysing an Image#Reflection prompts\|reflection prompts]] and final post on [Notion](https://notion.so).
 
