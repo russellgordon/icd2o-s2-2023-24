@@ -17,7 +17,7 @@
 	  > ![Screenshot 2023-09-22 at 1.05.59 PM.png](/img/user/Media/Screenshot%202023-09-22%20at%201.05.59%20PM.png)
 	  > HINT: To draw curves, experiment with the `addArc` command.
 	  
-### Things to do before our next class
+##### Things to do before our next class
 *If you were present today...*
 - [ ] Be sure you have completed the Name Plate activity, optionally, with the extension described above.
 - [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
