@@ -10,7 +10,7 @@
 	- Be sure to finish at least one round of this activity.
 3. Task: [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]]
 	- Begin this task today.
-## Things to do before our next class
+#### Things to do before our next class
 *If you were present today...*
 - [ ] Get a start on the [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]] task.
 
