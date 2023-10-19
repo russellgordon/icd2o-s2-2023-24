@@ -13,5 +13,5 @@
 	- Define your own set of rules to create original work(s) of generative art.
 4. Activity: [[Activities/Colour Models\|Colour Models]]
 	- Learn about how to work with colour in more interesting ways.
-## Things to do before our next class
+#### Things to do before our next class
 - [ ] Be sure to add portfolio entries in [Notion](https://notion.so) after completing the activities described above. What [[Learning Goals\|learning goal]] did you generate new evidence of understanding for?
