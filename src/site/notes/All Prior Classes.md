@@ -8,7 +8,7 @@
 
 ### Thread 1
 
-- [[All Prior Classes#Thread 1, Day 14 - Friday, October 13, 2023\|Thread 1, Day 14 - Friday, October 13, 2023]]
+- [[All Prior Classes#Thread 1, Day 14 - Friday, October 13, 2023\|Day 14 - Friday, October 13, 2023]]
 - [[All Prior Classes#Thread 1, Day 13 - Thursday, October 12, 2023\|Day 13 - Thursday, October 12, 2023]]
 - [[All Prior Classes#Thread 1, Day 12 - Tuesday, October 10, 2023\|Day 12 - Tuesday, October 10, 2023]]
 - [[All Prior Classes#Thread 1, Day 11 - Thursday, October 5, 2023\|Day 11 - Thursday, October 5, 2023]]
