@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/introduction-to-loops/","tags":["C2.4"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/concepts/introduction-to-loops/","tags":["C2.4"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Introduction to Loops
