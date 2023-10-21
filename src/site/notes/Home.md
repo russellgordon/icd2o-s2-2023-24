@@ -54,7 +54,7 @@ If you have a question, **don't hesitate**, come on by!
 - [Notion](https://notion.so)
 - [Student Course Outline](https://bit.ly/lcscs23-g10-sco)
 - [Ministry of Education Course of Study](https://bit.ly/lcscs23-g10-mco)
-- [[Curriculum/Overall and Specific Expectations\|Curriculum]]
 - [[Learning Goals\|Learning Goals]]
+- [[Curriculum/Overall and Specific Expectations\|Curriculum]]
 
 </div></div>
