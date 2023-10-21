@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/introduction-to-functions/","tags":["C3.3"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/concepts/introduction-to-functions/","tags":["C3.3"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Introduction to Functions
