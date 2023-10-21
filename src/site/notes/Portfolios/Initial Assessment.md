@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolios/initial-assessment/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/portfolios/initial-assessment/","dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Initial Assessment
