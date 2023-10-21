@@ -8,7 +8,7 @@
 
 Starting with 16 people, we broke into pairs and played [Rock-Paper-Scissors](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/).
 
-The winner of each initial match paired with another winner to play a match in the second round. Losers of a match from the first round now cheer for the person who won their first-round match.
+The winner of each initial match paired with another winner to play a match in the second round. Losers of a match from the first round now cheer for the person who won their first-round match. 
 
 So in the second round, 8 people are active, with the rest cheering someone on by repeating their name.
 
