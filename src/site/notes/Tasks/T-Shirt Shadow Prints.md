@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tasks/t-shirt-shadow-prints/","tags":["A1.1","A1.2","C1.1","C1.2","C1.4","C1.5","C2.2","C2.4","C2.6","C2.7","C3.3"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/tasks/t-shirt-shadow-prints/","tags":["A1.1","A1.2","C1.1","C1.2","C1.4","C1.5","C2.2","C2.4","C2.6","C2.7","C3.3"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # T-Shirt Shadow Prints
