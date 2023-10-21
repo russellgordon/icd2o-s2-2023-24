@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/activities/shapes-code-review/","tags":["C2.7"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/activities/shapes-code-review/","tags":["C2.7"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Shapes Code Review
