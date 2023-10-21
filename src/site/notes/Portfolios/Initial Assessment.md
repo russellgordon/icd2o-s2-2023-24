@@ -40,7 +40,7 @@ We have completed activities and tasks designed to give you multiple opportuniti
 
 
 
-## 1
+### 1 
 
 I know how to protect my privacy and keep my devices secure and organized.
 
@@ -55,7 +55,7 @@ I know how to protect my privacy and keep my devices secure and organized.
 
 
 
-## 4
+### 4
 
 I can plan for and describe the steps needed to solve a given task in a variety of ways.
 
@@ -70,7 +70,7 @@ I can plan for and describe the steps needed to solve a given task in a variety 
 
 
 
-## 5
+### 5
 
 I can explain the concepts of sequence, selection, and repeating events and apply them in code to obtain desired results.
 
@@ -85,7 +85,7 @@ I can explain the concepts of sequence, selection, and repeating events and appl
 
 
 
-## 6
+### 6
 
 I can describe how abstraction is used within an existing program and author programs of my own that apply abstraction.
 
