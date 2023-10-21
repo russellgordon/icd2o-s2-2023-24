@@ -27,7 +27,7 @@ This initial self-assessment of your portfolio should be completed prior to the 
 > 
 > Act on the feedback given to better demonstrate your understanding of course learning goals.
 
-## Assess your current achievement level
+## Learning goals addressed so far
 
 We are just past the three-quarters mark on the first module of this course.
 
@@ -94,6 +94,8 @@ I can describe how abstraction is used within an existing program and author pro
 
 
 ---
+
+## Assess your current achievement level
 
 ==To confidently assert that you have *met* expectations, you should have at least three different pieces of evidence in your portfolio that fit for most of the learning goals above.==
 
