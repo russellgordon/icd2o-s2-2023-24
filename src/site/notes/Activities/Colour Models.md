@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/activities/colour-models/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/activities/colour-models/","dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Colour Models
