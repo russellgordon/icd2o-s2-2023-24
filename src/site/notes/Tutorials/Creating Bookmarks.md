@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tutorials/creating-bookmarks/","tags":["B1.3"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/tutorials/creating-bookmarks/","tags":["B1.3"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Creating Bookmarks
