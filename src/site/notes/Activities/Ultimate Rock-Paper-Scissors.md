@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/activities/ultimate-rock-paper-scissors/","tags":["C1.1"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/activities/ultimate-rock-paper-scissors/","tags":["C1.1"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Ultimate Rock-Paper-Scissors
