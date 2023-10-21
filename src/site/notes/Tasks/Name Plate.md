@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tasks/name-plate/","tags":["C1.1","C2.4","C2.6"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/tasks/name-plate/","tags":["C1.1","C2.4","C2.6"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Name Plate
