@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/activities/parsing-instructions/","tags":["C1.1","C1.2"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/activities/parsing-instructions/","tags":["C1.1","C1.2"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Parsing Instructions
