@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setup/mac-os-ventura/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/setup/mac-os-ventura/","dgHomeLink":true,"dgShowToc":true}
 ---
 
 # macOS Ventura
