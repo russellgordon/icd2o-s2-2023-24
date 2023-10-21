@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/activities/going-home-again/","tags":["C3.3"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/activities/going-home-again/","tags":["C3.3"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Going Home Again
