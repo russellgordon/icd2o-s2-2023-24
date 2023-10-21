@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/activities/keyboard-shortcuts/","tags":["B1.3","B2.1"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/activities/keyboard-shortcuts/","tags":["B1.3","B2.1"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Keyboard Shortcuts
