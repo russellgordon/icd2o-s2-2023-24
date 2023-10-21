@@ -12,34 +12,34 @@ Tag the post with that learning goal.
 
 Over time, you will accumulate enough evidence in your portfolio to support the assertion that you have met and perhaps exceeded expectations for the learning goal in question.
 
-## 1
+### 1 
 
 I know how to protect my privacy and keep my devices secure and organized.
 
-## 2
+### 2
 
 I can describe the core components and hardware inside the digital devices I use each day.
 
-## 3
+### 3
 
 I can describe social, cultural, economic, environmental, and ethical issues connected to software and hardware innovations – and summarize their benefits and limitations.
 
-## 4
+### 4
 
 I can plan for and describe the steps needed to solve a given task in a variety of ways.
 
-## 5
+### 5
 
 I can explain the concepts of sequence, selection, and repeating events and apply them in code to obtain desired results.
 
-## 6
+### 6
 
 I can describe how abstraction is used within an existing program and author programs of my own that apply abstraction.
 
-## 7
+### 7
 
 I know how digital technology and programming skills are used to solve real-world problems in a variety of industries and careers, including within the skilled trades.
 
-## 8
+### 8
 
 I can use digital technology and software to help others.
