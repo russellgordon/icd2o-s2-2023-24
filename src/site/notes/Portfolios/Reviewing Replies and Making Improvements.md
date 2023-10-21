@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolios/reviewing-replies-and-making-improvements/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/portfolios/reviewing-replies-and-making-improvements/","dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Reviewing Replies and Making Improvements
