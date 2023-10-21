@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tutorials/hot-corners/","tags":["B2.3"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/tutorials/hot-corners/","tags":["B2.3"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Hot corners
