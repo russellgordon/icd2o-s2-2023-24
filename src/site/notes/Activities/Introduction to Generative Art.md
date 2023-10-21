@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/activities/introduction-to-generative-art/","tags":["C1.4","C1.5","C2.1","C2.2","C2.3","C2.4","C2.6","C2.7"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/activities/introduction-to-generative-art/","tags":["C1.4","C1.5","C2.1","C2.2","C2.3","C2.4","C2.6","C2.7"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Introduction to Generative Art
