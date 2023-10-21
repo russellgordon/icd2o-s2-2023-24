@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tutorials/syncing-files-from-cloud-storage/","tags":["B2.1"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/tutorials/syncing-files-from-cloud-storage/","tags":["B2.1"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Syncing Files from Cloud Storage
