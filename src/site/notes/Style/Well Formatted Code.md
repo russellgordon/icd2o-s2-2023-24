@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/style/well-formatted-code/","tags":["C2.7"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/style/well-formatted-code/","tags":["C2.7"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Well Formatted Code
