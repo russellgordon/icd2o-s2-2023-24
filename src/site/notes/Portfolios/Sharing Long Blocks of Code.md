@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolios/sharing-long-blocks-of-code/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/portfolios/sharing-long-blocks-of-code/","dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Sharing Long Blocks of Code
