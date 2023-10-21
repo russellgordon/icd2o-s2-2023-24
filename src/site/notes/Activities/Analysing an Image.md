@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/activities/analysing-an-image/","tags":["A1.1","A1.2","C1.1","C1.2","C1.4","C1.5","C2.2","C2.4","C2.6"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/activities/analysing-an-image/","tags":["A1.1","A1.2","C1.1","C1.2","C1.4","C1.5","C2.2","C2.4","C2.6"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Analysing an Image
