@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setup/installing-playgrounds/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/setup/installing-playgrounds/","dgHomeLink":true,"dgShowToc":false}
 ---
 
 # Installing Playgrounds
