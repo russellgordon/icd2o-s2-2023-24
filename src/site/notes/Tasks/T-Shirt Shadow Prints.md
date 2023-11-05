@@ -18,7 +18,7 @@ Create a design that when inverted, will look appealing when [printed with sunli
 	- [geometric animal art](https://duckduckgo.com/?q=geometric+animal+line+art)
 	- [line art to create a sense of perspective](https://duckduckgo.com/?q=line+art+perspective)
 	- [optical illusion art](https://duckduckgo.com/?q=optical+illusion+art+using+straight+lines)
-# Success criteria
+## Success criteria
 
 *I know I've been highly successful when...*
 
