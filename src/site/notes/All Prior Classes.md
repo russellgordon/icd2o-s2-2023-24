@@ -35,7 +35,7 @@
 
 
 
-### Thread 2, Day 1 - Tuesday, November 21, 2023
+### Thread 2, Day 1 - Monday, November 20, 2023
 #### Agenda
 1. Concept: [[Concepts/Abstraction and Binary Numbers\|Abstraction and Binary Numbers]]
 	- Complete this mini-lesson to get a very brief introduction to how computers store numeric data.
