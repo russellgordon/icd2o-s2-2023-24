@@ -10,7 +10,7 @@
 
 It is a series of capture-the-flag challenges designed to help learners understand computer security, programming concepts, and how data is stored on a computer.
 
-Paul created Hacktivate to help his daughter and her friends prepare for cybersecurity competitions, and has kindly made these activities available to other schools around the world.
+Paul created Hacktivate to help his daughter and her friends prepare for cybersecurity competitions, and he has kindly made these activities available to other schools around the world.
 
 ## What to do
 
