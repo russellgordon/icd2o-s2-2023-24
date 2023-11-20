@@ -8,7 +8,7 @@
 
 ### Thread 2
 
-- [[All Prior Classes#Thread 2, Day 1 - Tuesday, November 21, 2023\|Day 1 - Tuesday, November 21, 2023]]
+- [[All Prior Classes#Thread 2, Day 1 - Monday, November 20, 2023\|Day 1 - Monday, November 20, 2023]]
 
 ### Thread 1
 
