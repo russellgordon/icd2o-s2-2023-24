@@ -17,10 +17,10 @@
 	- A channel for feedback.
 	- Connection to end of year tasks.
 	- Please remember to tag against a [[Learning Goals\|learning goal]].
-2. Discussion: Safe Computing
+1. Discussion: [[Discussions/Safe Computing\|Safe Computing]]
 	- A look at ways that we can regain our privacy and safety online.
-	- Once you have completed the four action items, you may use the rest of the period for the next item on today's agenda.
-3. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
+	- Once you have completed the [[Discussions/Safe Computing#Action\|four action items]], you may use the rest of the period for the next item on today's agenda.
+1. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
 	- Continue making progress on challenges.
 ###### Things to do before our next class
 - [ ] Make a Notion post and:
