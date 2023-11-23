@@ -8,6 +8,7 @@
 
 ### Thread 2
 
+- [[All Prior Classes#Thread 2, Day 2 - Thursday, November 23, 2023\|Day 2 - Thursday, November 23, 2023]]
 - [[All Prior Classes#Thread 2, Day 1 - Monday, November 20, 2023\|Day 1 - Monday, November 20, 2023]]
 
 ### Thread 1
@@ -29,6 +30,26 @@
 
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-2/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 2 - Thursday, November 23, 2023
+#### Agenda
+1. Discussion: Safe Computing
+	- A look at ways that we can regain our privacy and safety online.
+	- Once you have completed the four action items, you may use the rest of the period for the next item on today's agenda.
+2. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
+	- Continue making progress on challenges.
+###### Things to do before our next class
+- [ ] Make a Notion post and:
+	1. Share screenshot(s) of the new challenge(s) you completed on Hacktivate.
+	2. Describe concepts or terms you learned about, and concepts or terms you want to learn more about.
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 2\|Back to top of thread 2 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-1/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
