@@ -39,7 +39,7 @@
 
 ### Thread 2, Day 4 - Monday, November 27, 2023
 #### Agenda
-1.  Discussion: User Authentication
+1.  Discussion: [[Discussions/User Authentication\|User Authentication]]
 	- How can we identify ourselves when using services online?
 1. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
 	- Continue making progress on challenges.
