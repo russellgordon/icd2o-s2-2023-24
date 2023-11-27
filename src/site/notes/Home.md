@@ -17,8 +17,9 @@
 	- Continue making progress on challenges.
 ###### Things to do before our next class
 - [ ] Make a Notion post and:
-	1. Share screenshot(s) of the new challenge(s) you completed on Hacktivate.
-	2. Describe concepts or terms you learned about, and concepts or terms you want to learn more about.
+	1. Summarize what you learned about authentication – about *passwords* and *passkeys*.
+	2. Share screenshot(s) of the new challenge(s) you completed on Hacktivate.
+	3. Describe concepts or terms you learned about, and concepts or terms you want to learn more about.
 
 </div></div>
 
