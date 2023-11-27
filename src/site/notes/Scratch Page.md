@@ -23,20 +23,11 @@
 # Portfolio 
 
 ## Missing
-- Dallin
-- James
-- Lola
-- Marcus
-
-## Lacking detail
-- Jakob
-- Griffin
-- Jameson
-- Jonathan
-- Kevin
-- Lola
-- Rupert
-- 
+- Thomas C
+- Kevin L
+- Kaan (empty)
+- Blake
+- Axel
 
 
 # Upcoming topics
@@ -55,12 +46,14 @@
 - portfolio review prep and structure
 - Explain CS Drop-In with Morgan and Justin
 - Bubble Sort: Sorting Algorithm
--
+
 
 ## Students showing an interest in...
 
+- Leo: Steganography & cryptography
 - quantum computing
 - rainbow table
 - hash function ** definitely revisit
+- Python or Javascript (Brandon L)
 
 
