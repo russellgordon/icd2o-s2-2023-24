@@ -6,11 +6,11 @@
 
 Here are a few examples of what students authored in this module of the course last year:
 
-![a.png](/img/user/Media/a.png)
+![a.png|500](/img/user/Media/a.png)
 
-![b.png](/img/user/Media/b.png)
+![b.png|500](/img/user/Media/b.png)
 
-![c.png](/img/user/Media/c.png)
+![c.png|500](/img/user/Media/c.png)
 
 You can see the complete array of the products from last year on the wall outside our classroom.
 
