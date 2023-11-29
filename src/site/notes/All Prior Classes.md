@@ -8,6 +8,7 @@
 
 ### Thread 2
 
+- [[All Prior Classes#Thread 2, Day 5 - Wednesday, November 29, 2023\|Day 5 - Wednesday, November 29, 2023]]
 - [[All Prior Classes#Thread 2, Day 4 - Monday, November 27, 2023\|Day 4 - Monday, November 27, 2023]]
 - [[All Prior Classes#Thread 2, Day 3 - Friday, November 24, 2023\|Day 3 - Friday, November 24, 2023]]
 - [[All Prior Classes#Thread 2, Day 2 - Thursday, November 23, 2023\|Day 2 - Thursday, November 23, 2023]]
@@ -31,6 +32,28 @@
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, September 12, 2023\|Day 1 - Tuesday, September 12, 2023]]
 
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-5/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 5 - Wednesday, November 29, 2023
+#### Agenda
+1. [[Discussions/Looking Ahead – Gig Posters Task\|Looking Ahead – Gig Posters Task]]
+2. [[Discussions/The Intersection of Art and Programming\|The Intersection of Art and Programming]]
+	- Where can writing code to create art lead?
+3. Demo: Drawing with Absolute Co-ordinates
+	- In this module, you will program in the same environment, but draw shapes using *absolute* co-ordinates most of the time.
+		- So, what does that actually mean?
+1. Task: [[Tasks/Panda Scene\|Panda Scene]]
+	- Revisit your understanding of *sequence* and how to write readable code by authoring a scene of a panda's habitat.
+###### Things to do before our next class
+- [ ] Make progress on your panda scene and make [[Tasks/Panda Scene#Portfolio entries\|the appropriate portfolio entries]].
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 2\|Back to top of thread 2 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-4/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
