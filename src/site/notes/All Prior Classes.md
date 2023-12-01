@@ -42,7 +42,7 @@
 
 ### Thread 2, Day 7 - Friday, December 1, 2023
 #### Agenda
-1. Activity: Patterns, Plans, and Iteration
+1. Activity: [[Activities/Patterns, Plans, and Iteration\|Patterns, Plans, and Iteration]]
 	- Work with your randomly assigned partner to complete this activity.
 2. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
 	- With any time you have remaining in class today, you are welcome to continue working on Hacktivate challenges.
