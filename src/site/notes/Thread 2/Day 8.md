@@ -8,7 +8,5 @@
 	- After our initial discussion, follow along with this tutorial to reproduce your first gig poster! 🎶
 2. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
 	- With any time you have remaining in class today, you are welcome to continue working on Hacktivate challenges.
-2. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
-	- With any time you have remaining in class today, you are welcome to continue working on Hacktivate challenges.
-###### Things to do before our next class
+##### Things to do before our next class
 - [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today about patterning, iteration, and loops.
