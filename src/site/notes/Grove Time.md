@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grove-time/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/grove-time/"}
 ---
 
 Day|Time|Location
