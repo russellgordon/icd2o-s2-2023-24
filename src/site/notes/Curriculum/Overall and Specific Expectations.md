@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/curriculum/overall-and-specific-expectations/","dgHomeLink":true,"dgShowToc":false}
+{"dg-publish":true,"permalink":"/curriculum/overall-and-specific-expectations/","dgHomeLink":true}
 ---
 
 # Digital Technologies and Innovations in the Changing World
