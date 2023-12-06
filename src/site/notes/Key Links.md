@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/key-links/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/key-links/"}
 ---
 
 - [Notion](https://notion.so)
