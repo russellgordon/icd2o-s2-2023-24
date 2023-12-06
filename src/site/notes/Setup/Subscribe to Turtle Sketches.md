@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setup/subscribe-to-turtle-sketches/","dgHomeLink":true,"dgShowToc":false}
+{"dg-publish":true,"permalink":"/setup/subscribe-to-turtle-sketches/","dgHomeLink":true}
 ---
 
 # Subscribe to Turtle Sketches
