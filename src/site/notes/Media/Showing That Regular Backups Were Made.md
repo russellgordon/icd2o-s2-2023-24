@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media/showing-that-regular-backups-were-made/","dgHomeLink":false,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/media/showing-that-regular-backups-were-made/","dgShowToc":true}
 ---
 
 # Showing That Regular Backups Were Made
