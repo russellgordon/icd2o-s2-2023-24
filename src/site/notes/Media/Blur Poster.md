@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media/blur-poster/","dgHomeLink":false,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/media/blur-poster/","dgShowToc":true}
 ---
 
 # Blur Poster
