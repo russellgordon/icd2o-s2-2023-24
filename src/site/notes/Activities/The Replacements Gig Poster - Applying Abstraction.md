@@ -88,7 +88,7 @@ It might be helpful to view this poster against a grid:
 
 We can reproduce this poster by applying the concepts of *sequence* and *abstraction*.
 
-With your partner, mark up the planning sheet you have been provided with, and:
+With your partner, mark up the [planning sheet you have been provided with](https://www.russellgordon.ca/lcs/2023-24/icd2o/the_replacements_-_planning-sheet.pdf), and:
 
 1. number elements of the drawing to indicate what order they might be drawn in (sequence)
 2. identify where a function might be used (abstraction)
