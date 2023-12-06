@@ -264,13 +264,13 @@ So far we have:
 
 #### Use the parameters within the function
  
-Let's refer back to our plan now:
+Let's refer back to our plan now: 
 
 ![IMG_F1AB638FD722-1.jpeg](/img/user/Media/IMG_F1AB638FD722-1.jpeg)
 
 We want to draw the pattern again, this time in blue, and at the top right  corner of the drawing, anchored from the position of $(0,200)$.
 
-Let's give this a shot – add the following code to invoke (or call) the function a second time:
+Let's give this a shot – add the following code to invoke (or call) the function a second time: 
 
 ![Invoking the Function a Second Time.gif](/img/user/Media/Invoking%20the%20Function%20a%20Second%20Time.gif)
 
@@ -284,7 +284,7 @@ The problem is – we are *not yet using the answers inside our function*.
 
 ##### Use the `color` parameter
 
-So, first – we will use the `color` parameter in the function – make these changes:
+So, first – we will use the `color` parameter in the function – make these changes: 
 
 ![Using the Color Parameter.gif](/img/user/Media/Using%20the%20Color%20Parameter.gif)
 
