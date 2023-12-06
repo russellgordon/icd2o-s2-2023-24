@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media/refused-poster/","dgHomeLink":false,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/media/refused-poster/","dgShowToc":true}
 ---
 
 # Refused Poster
