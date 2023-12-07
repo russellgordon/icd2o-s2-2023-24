@@ -20,7 +20,7 @@
 - [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today about iteration and loops.
 
 </div></div>
-
+ 
 ## All Prior Classes
 You can see details of [[All Prior Classes\|all prior classes]] here.
 ___
