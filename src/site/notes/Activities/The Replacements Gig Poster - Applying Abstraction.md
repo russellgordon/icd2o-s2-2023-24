@@ -104,23 +104,42 @@ Let's look at how to implement this now.
 
 ## Implementation
 
-### Keep playgrounds organized
+### Create a new playground
 
-Before starting to implement this poster, make a duplicate of your existing poster for the band **Blur** and then rename the duplicate to **The Replacements**. Be sure to keep the changes when you duplicate:
+Make a copy of the [[Setup/Subscribe to Turtle Sketches\|Sketches Template]], renamed to be titled *The Replacements*.
 
-![Renaming the Blur Playground2.gif](/img/user/Media/Renaming%20the%20Blur%20Playground2.gif)
+You can use this starter code – copy and paste this into your new playground:
 
-### Draw the background
+```swift
+// POSTER GENERATION CODE
+
+// Draw the background
+turtle.penColor = .clear
+turtle.fillColor = .black
+turtle.drawRectangle(at: Point(x: -400, y: -600),
+                     width: 800,
+                     height: 1200)
+
+// FINAL HOUSEKEEPING TASKS
+
+// Draw the axes
+turtle.drawAxes (withScale: true,
+                 by: 100,
+                 width: 400,
+                 height: 600,
+                 color: .white)
+
+// Generate a PDF
+turtle.renderDrawingToPDF()
+```
+
+### Run the playground
 
 Every gig poster will begin with drawing the background.
 
 Note that here we draw the axes in white so that they show up against the dark background:
 
 ![Screen Shot 2022-12-11 at 2.48.46 PM.png](/img/user/Media/Screen%20Shot%202022-12-11%20at%202.48.46%20PM.png)
-
-> [!NOTE]
-> You can choose to remove, or simply comment out, the old code from your **Blur** poster. To comment out many lines of code all at once, highlight them, then press `Command /`
-
 ### Draw the circle and square pattern
 
 #### Draw the square
@@ -344,6 +363,9 @@ Like we just did, you should:
 	- revising the function to add parameter(s) – the questions
 	- invoking the function to provide argument(s) – the answers
 	- using the answers inside the function, replacing concrete values with the values held in the parameters
+
+> [!HINT]
+> Using the [[Activities/The Replacements Gig Poster - Applying Abstraction#Don't Repeat Yourself\|goToHome]] function will be helpful when you write the code to create your triangles.
 
 Once you have drawn the triangles using a function, finish off the poster by:
 
