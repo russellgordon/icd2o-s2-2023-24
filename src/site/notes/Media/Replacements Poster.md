@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media/replacements-poster/","dgHomeLink":false,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/media/replacements-poster/","dgShowToc":true}
 ---
 
 # Replacements Poster
