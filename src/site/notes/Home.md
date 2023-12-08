@@ -4,20 +4,28 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-10/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 2, Day 9 - Thursday, December 7, 2023
+### Thread 2, Day 10 - Friday, December 8, 2023
 #### Agenda
-1. Activity: [[Activities/Ramones\|Ramones]]
-	- Show that you really understand iteration and sequence by reproducing this gig poster. 🎸
-2. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
-	- With any time you have remaining in class today, you are welcome to continue working on Hacktivate challenges.
+1. Discussion: [Rubber Duck Debugging](https://rubberduckdebugging.com)
+	- Solving logical errors and syntax errors can be frustrating, but everyone deals with it, even experienced programmers.
+	- Pairing with a friend to describe what you are trying to do with your code, line by line, can be helpful.
+		- Often during this process, you will realize the source of the problem you are having.
+	- When a friend is not nearby, [use your duck](https://rubberduckdebugging.com)! 🦆
+2. Activity: [[Activities/The Replacements Gig Poster - Applying Abstraction\|The Replacements Gig Poster - Applying Abstraction]]
+	- Learn how to identify repeated elements in a drawing and then apply abstraction by authoring a function. 🚀
+	> [!TODO]
+	> 
+	> As you complete the activity, take note of new vocabulary that is introduced.
+	> 
+	> Describe your understanding of these new terms in the Notion post that you make for today's class.
 
 ###### Things to do before our next class
-- [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today about iteration and loops.
+- [ ] Make a portfolio post [on Notion](https://notion.so), share your progress, and sum
 
 </div></div>
  
