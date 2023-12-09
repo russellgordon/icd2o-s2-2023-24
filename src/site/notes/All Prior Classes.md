@@ -59,7 +59,7 @@
 	> Describe your understanding of these new terms in the Notion post that you make for today's class.
 
 ###### Things to do before our next class
-- [ ] Make a portfolio post [on Notion](https://notion.so), share your progress, and sum
+- [ ] Make a portfolio post [on Notion](https://notion.so), share your progress, and summarize what you've learned today about the process of abstraction.
 
 </div></div>
 
