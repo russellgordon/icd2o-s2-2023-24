@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/activities/superdrag/","tags":["A1.1","A1.2","C1.1","C1.4","C2.1","C2.4","C2.7","C3.3"],"dgHomeLink":true,"dgShowToc":true}
 ---
 
-# Superdrag
+# Superdrag 
 
 Reproduce the following gig poster:
 
