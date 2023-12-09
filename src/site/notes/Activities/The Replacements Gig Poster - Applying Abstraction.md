@@ -64,7 +64,7 @@ $$
 \begin{aligned}
 &8 \text{ lines of code to define function} \\
 &+ 31 \text{ lines of code to invoke function} \\
-&= 40 \text{ total lines of code}
+&= 39 \text{ total lines of code}
 \end{aligned}
 $$
 
