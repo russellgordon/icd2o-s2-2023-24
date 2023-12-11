@@ -20,7 +20,7 @@
 - [ ] Make a portfolio post [on Notion](https://notion.so), share your progress, and summarize your learning as a result of completing today's activity.
 
 </div></div>
-  
+ 
 ## All Prior Classes
 You can see details of [[All Prior Classes\|all prior classes]] here.
 ___
