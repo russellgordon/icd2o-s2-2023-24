@@ -8,7 +8,7 @@ Recently we have seen how *nested loops* – a loop inside of another loop – c
 
 For example, consider this poster for The Heartbreakers:
 
-![the heartbreakers - no grid copy.png|510](/img/user/Media/the%20heartbreakers%20-%20no%20grid%20copy.png)
+![the heartbreakers - no grid copy.png|511](/img/user/Media/the%20heartbreakers%20-%20no%20grid%20copy.png)
 
 The exact code for how that grid is created is not important right now.
 
@@ -44,7 +44,7 @@ In this example, when the `condition` is `true` the first block of code runs. Ot
 
 It is the second example that is being used in this poster:
 
-![the heartbreakers - no grid copy.png|510](/img/user/Media/the%20heartbreakers%20-%20no%20grid%20copy.png)
+![the heartbreakers - no grid copy.png|511](/img/user/Media/the%20heartbreakers%20-%20no%20grid%20copy.png)
 
 The precise code is:
 
