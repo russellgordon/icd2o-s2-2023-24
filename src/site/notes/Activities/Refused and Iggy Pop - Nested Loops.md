@@ -8,18 +8,18 @@ We have already seen how a loop can be used to *iterate* over a block of code to
 
 For example, consider this Sonic Youth gig poster:
 
-![sonic youth - no grid copy.png|800](/img/user/Media/sonic%20youth%20-%20no%20grid%20copy.png)
+![sonic youth - no grid copy.png|801](/img/user/Media/sonic%20youth%20-%20no%20grid%20copy.png)
 
 When analysed upon a grid, we can see that repeatedly drawing partially transparent circles will produce the desired design:
 
-![sonic youth - with grid - analysed copy.png|800](/img/user/Media/sonic%20youth%20-%20with%20grid%20-%20analysed%20copy.png)
+![sonic youth - with grid - analysed copy.png|801](/img/user/Media/sonic%20youth%20-%20with%20grid%20-%20analysed%20copy.png)
 
-The pattern is that the width of the circles changes. The first circle has a width of $300$ pixels, the next $400$ pixels, and so on... up to and including a width of $800$ pixels.
+The pattern is that the width of the circles changes. The first circle has a width of $300$ pixels, the next $400$ pixels, and so on... up to and including a width of $801$ pixels.
 
 This can be expressed with the following `for` loop:
 
 ```swift
-for i in stride(from: 300, through: 800.0, by: 100.0) {
+for i in stride(from: 300, through: 801.0, by: 100.0) {
     turtle.drawEllipse(at: Point(x: 0, y: -200),
                        width: i,
                        height: i)
@@ -48,9 +48,9 @@ The grid allows for some analysis to occur:
 
 ![refused - with grid - analysed copy.png|510](/img/user/Media/refused%20-%20with%20grid%20-%20analysed%20copy.png)
 
-By recognizing that the width of the poster is $800$ pixels, and that there are five circles in a row, we can determine that the width of each circle is $160$ pixels:
+By recognizing that the width of the poster is $801$ pixels, and that there are five circles in a row, we can determine that the width of each circle is $160$ pixels:
 
-$$800 \div 5 = 160$$
+$$801 \div 5 = 160$$
 
 We know that circles are anchored at their centre point.
 
@@ -155,11 +155,11 @@ All of that is illustrated here – be sure to watch this animation several time
 
 Apply the same principles that you have reviewed above to build the following poster:
 
-![iggy pop - no grid copy.png|800](/img/user/Media/iggy%20pop%20-%20no%20grid%20copy.png)
+![iggy pop - no grid copy.png|801](/img/user/Media/iggy%20pop%20-%20no%20grid%20copy.png)
 
 Here is the poster with a grid:
 
-![iggy pop - with grid copy.png|800](/img/user/Media/iggy%20pop%20-%20with%20grid%20copy.png)
+![iggy pop - with grid copy.png|801](/img/user/Media/iggy%20pop%20-%20with%20grid%20copy.png)
 
 > [!NOTE]
 > Use the [planning sheet provided in class](https://www.russellgordon.ca/lcs/2023-24/icd2o/iggy_pop_-_planning_sheet.pdf) to analyse the poster in the same manner as was shown earlier in this tutorial.
