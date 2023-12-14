@@ -105,7 +105,7 @@ When you have finished the code for this task, please complete the **Coding Task
 
 ## Due date
 
-You must add all required elements described above in to your portfolio *prior* to leaving for the Winter Break. No exceptions – plan ahead – everything will take longer than you expect to finish. 
+You must add all required elements described above in to your portfolio *prior* to leaving for the Winter Break. No exceptions – please, plan ahead – everything will take longer than you expect to finish. 
 
 > [!IMPORTANT]
 > Mr. Gordon's holiday actually starts when he has evaluated your portfolio and written  your next report card comment for this course while this module is fresh in his memory. He will not chase you to hand in missing work but will simply evaluate what is present in your portfolio when the Winter Break begins.
