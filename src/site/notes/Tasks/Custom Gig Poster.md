@@ -90,7 +90,7 @@ In the **Learning** section, briefly summarize key achievements using subject-sp
 
 In the **Questions** section, ask about anything that you need a hand with, and Mr. Gordon will reply or be ready to answer your question in the next class.
 
-### A Complete Exemplar
+### A complete exemplar
 
 Mr. Gordon completed this task, too. [View his work here to see a complete exemplar](https://www.notion.so/lakefieldcs/868d23e3bf67415b92f37f61086d6d3f?v=3ab707db12414dd68a511df18241f84c&pvs=4) for how to meet and exceed expectations.
 
