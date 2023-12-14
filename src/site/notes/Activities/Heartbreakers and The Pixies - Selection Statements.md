@@ -139,3 +139,19 @@ Here is the poster with a grid:
 
 > [!NOTE]
 > Use the [planning sheet provided in class](https://www.russellgordon.ca/lcs/2023-24/icd2o/the_pixies_-_planning_sheet.pdf) to analyse the poster.
+
+> [!TIP]
+> It will be helpful to have the following code in your program at some point, to see the position and co-ordinates of each circle:
+> ```
+> // Draw the co-ordinates of the anchor point
+> turtle.drawText(message: "(\(i), \(j))",
+> 				at: Point(x: i - 30,
+> 						  y: j),
+> 				size: 12)
+> 
+> // Draw the sum of the anchor point co-ordinates
+> turtle.drawText(message: "Sum: \(i + j)",
+> 				at: Point(x: i - 30,
+> 						  y: j - 10),
+> 				size: 12)
+> ```
