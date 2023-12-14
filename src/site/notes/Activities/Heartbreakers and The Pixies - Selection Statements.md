@@ -146,12 +146,12 @@ Here is the poster with a grid:
 > // Draw the co-ordinates of the anchor point
 > turtle.drawText(message: "(\(i), \(j))",
 > 				at: Point(x: i - 30,
-> 						  y: j),
+> 					  y: j),
 > 				size: 12)
 > 
 > // Draw the sum of the anchor point co-ordinates
 > turtle.drawText(message: "Sum: \(i + j)",
 > 				at: Point(x: i - 30,
-> 						  y: j - 10),
+> 					  y: j - 10),
 > 				size: 12)
 > ```
