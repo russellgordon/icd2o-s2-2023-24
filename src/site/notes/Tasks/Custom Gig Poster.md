@@ -103,6 +103,12 @@ When you have finished the code for this task, please complete the **Coding Task
 1. What was the hardest part of authoring your poster? Why?
 2. What technique that we learned about in this module – sequence, iteration, abstraction, or selection, was most important for creating your poster? Why?
 
+## Due date
+
+You must add all required elements described above in to your portfolio *prior* to leaving for the Winter Break. No exceptions – plan ahead – everything will take longer than you expect to finish. 
+
+> [!IMPORTANT]
+> Mr. Gordon's holiday actually starts when he has evaluated your portfolio and written  your next report card comment for this course while this module is fresh in his memory. He will not chase you to hand in missing work but will simply evaluate what is present in your portfolio when the Winter Break begins.
 ## Learning goals
 
-Successful completion of this task is great evidence of mastery for learning goals 4, 5, and 6.
+Successful completion of this task is great evidence of mastery for learning goals 1, 4, 5, and 6.
