@@ -4,4 +4,4 @@
 
 # Showing That Regular Backups Were Made
 
-![Showing that Backups Were Made Regularly.gif](/img/user/Media/Showing%20that%20Backups%20Were%20Made%20Regularly.gif)
+![Showing That Backups Were Made.gif](/img/user/Media/Showing%20That%20Backups%20Were%20Made.gif)
