@@ -26,11 +26,11 @@ Loosely follow the [style of Swiss modernism as illustrated by Mike Joyce's work
 > [!NOTE]
 > Your plan *must* be [shared on Notion](https://notion.so) and approved by Mr. Gordon prior to starting to write code. 
 
- - to ==meet== expectations, your code should:
+ - ∙ to ==meet== expectations, your code should:
 	- [ ] show an understanding of *sequence* by producing output that matches your plan
 	- [ ] show an understanding of *iteration* by using loops to draw repeated elements
 
-- to ==exceed== expectations, your code should:
+- ∙ to ==exceed== expectations, your code should:
 	- [ ] show an understanding of *abstraction* by making use of functions that include parameters
 	- [ ] show an understanding of *selection* by making use of `if` statements
 
@@ -75,11 +75,11 @@ You *must* post about your progress at multiple points while you write your code
 
 Here is an example from last year:
 
-![Screenshot 2023-12-05 at 8.26.06 PM.png|700](/img/user/Media/Screenshot%202023-12-05%20at%208.26.06%E2%80%AFPM.png)
-
 ![Screenshot 2023-12-05 at 8.25.19 PM.png|700](/img/user/Media/Screenshot%202023-12-05%20at%208.25.19%E2%80%AFPM.png)
 
 ![Screenshot 2023-12-05 at 8.25.40 PM.png|700](/img/user/Media/Screenshot%202023-12-05%20at%208.25.40%E2%80%AFPM.png)
+
+![Screenshot 2023-12-05 at 8.26.06 PM.png|700](/img/user/Media/Screenshot%202023-12-05%20at%208.26.06%E2%80%AFPM.png)
 
 > [!NOTE]
 > Last year students used slightly different portfolio software.
@@ -90,11 +90,19 @@ In the **Learning** section, briefly summarize key achievements using subject-sp
 
 In the **Questions** section, ask about anything that you need a hand with, and Mr. Gordon will reply or be ready to answer your question in the next class.
 
+### A Complete Exemplar
+
+Mr. Gordon completed this task, too. [View his work here to see a complete exemplar](https://www.notion.so/lakefieldcs/868d23e3bf67415b92f37f61086d6d3f?v=3ab707db12414dd68a511df18241f84c&pvs=4) for how to meet and exceed expectations.
+
 ## Handing in your work
 
-Please [submit your playground to this Google form](https://docs.google.com/forms/d/e/1FAIpQLScYEG6oLgAFN9DR16LC10Hkie5T75342qqwgCTxrKWbZ-GYLA/viewform) using drag and drop. You are encouraged to submit multiple copies of your playground as you are likely to make improvements over time based on feedback received from peers and your teacher.
-> [!Tip]
-> Remember, you must use the Safari web browser when submitting a playground for drag and drop to work.
+When you have finished the code for this task, please complete the **Coding Task – Final Entry** template, and be sure to respond to these prompts...
+
+![Screenshot 2023-09-25 at 9.03.41 PM.png|250](/img/user/Media/Screenshot%202023-09-25%20at%209.03.41%20PM.png)
+
+1. What was the hardest part of authoring your poster? Why?
+2. What technique that we learned about in this module – sequence, iteration, abstraction, or selection, was most important for creating your poster? Why?
 
 ## Learning goals
+
 Successful completion of this task is great evidence of mastery for learning goals 4, 5, and 6.
