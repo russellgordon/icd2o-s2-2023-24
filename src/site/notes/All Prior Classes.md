@@ -8,6 +8,7 @@
 
 ### Thread 2
 
+- [[All Prior Classes#Thread 2, Day 16 - Wednesday, December 20, 2023\|Day 16 - Wednesday, December 20, 2023]]
 - [[All Prior Classes#Thread 2, Day 15 - Monday, December 18, 2023\|Day 15 - Monday, December 18, 2023]]
 - [[All Prior Classes#Thread 2, Day 14 - Friday, December 15, 2023\|Day 14 - Friday, December 15, 2023]]
 - [[All Prior Classes#Thread 2, Day 13 - Thursday, December 14, 2023\|Day 13 - Thursday, December 14, 2023]]
@@ -41,6 +42,26 @@
 - [[All Prior Classes#Thread 1, Day 2 - Tuesday, September 19, 2023\|Day 2 - Tuesday, September 19, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, September 12, 2023\|Day 1 - Tuesday, September 12, 2023]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-16/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 16 - Wednesday, December 20, 2023
+#### Agenda
+1. Task: [[Tasks/Custom Gig Poster\|Custom Gig Poster]]
+	- Continue with this task today.
+	> [!IMPORTANT]
+	> Your final product must be handed in before you leave LCS for the Winter Break.
+
+###### Things to do before our next class
+- [ ] Make a portfolio post [on Notion](https://notion.so), share your progress, and summarize your learning as a result of completing today's activity.
+	- Be sure you are [sharing](https://www.notion.so/lakefieldcs/Thread-2-Day-15-Custom-Gig-poster-v3-861a9e905a2d43b5a3e0a933383d1517?pvs=4) [regular](https://www.notion.so/lakefieldcs/Thread-2-Day-15-Custom-Gig-Poster-v4-afd80eb264024e04be50cfa56d3818a7?pvs=4) [progress](https://www.notion.so/lakefieldcs/Thread-2-Day-16-Custom-Gig-Poster-v5-65f540a154e14abfb3e062ff7d2e7231?pvs=4) updates and that you make a [final entry when you are finished](https://www.notion.so/lakefieldcs/Thread-2-Day-16-Custom-Gig-Poster-Final-Entry-e60141cc765243aca12ae449ed4e0bfe?pvs=4).
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 2\|Back to top of thread 2 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-15/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
