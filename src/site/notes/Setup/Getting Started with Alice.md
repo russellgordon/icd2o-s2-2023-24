@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setup/getting-started-with-alice/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/setup/getting-started-with-alice/","dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Getting Started with Alice
@@ -35,7 +35,7 @@ Once you have the installer file, continue to the next section of this page.
 > [!NOTE]
 > If you are reading this outside of class time, you can [download the Alice installer here](http://www.alice.org/wp-content/uploads/2023/08/alice3_macos_installer_3_8_0_0build_1046.dmg).
 
-## Installing Alice
+### Installing Alice
 
 To begin installing Alice, first double-click the .dmg file:
 
@@ -109,7 +109,7 @@ When the software opens, you will see this interface:
 
 Select an environment to start with – such as **Grass**, **Sea Floor**, **Moon**, et cetera – then press **OK**.
 
-## The Alice Interface
+### The Alice Interface
 
 Alice consists of two main interfaces.
 
@@ -121,7 +121,7 @@ Second is the **scene editor**:
 
 ![Screenshot 2023-02-13 at 6.57.04 AM.png](/img/user/Media/Screenshot%202023-02-13%20at%206.57.04%20AM.png)
 
-## Security Permissions
+### Security Permissions
 
 One. last. setup. step. 😅
 
@@ -133,13 +133,13 @@ Here's what to do so that Alice has the permissions it needs to run:
 
 ![Granting Alice Permission to Control Computer.gif](/img/user/Media/Granting%20Alice%20Permission%20to%20Control%20Computer.gif)
 
-## More About the Scene Editor
+### More About the Scene Editor
 
 Optionally, although it is recommended, learn a bit about the basics of the scene editor by watching this 2-minute video:
 
 [![Pasted image 20230213070658.png|650](/img/user/Media/Pasted%20image%2020230213070658.png)](https://www.yout-ube.com/watch?v=Nvq7KSXfuxg&list=PL2vYlw8bSEXTyNRMhysZj5gz6hR9I8xbT)
 
-## Explore the Alice Interface
+### Explore the Scene Editor
 
 Take a few minutes and explore the scene editor!
 
@@ -151,7 +151,7 @@ You can also choose **File > New...** and choose a different starting scene. ☺
 
 When you are ready, keep reading below.
 
-## Move the Camera
+#### Move the Camera
 
 In any 3D world, the ability to change the perspective of the camera is key. 
 
@@ -163,7 +163,7 @@ When you move the camera, if you don't like what just happened, use **undo** via
 
 If you want to **redo** the last movement, press `Command-Y`.
 
-## Camera Markers and One Shot Procedures
+#### Camera Markers and One Shot Procedures
 
 When telling a story in 3D, it's often nice to switch the camera's perspective.
 
@@ -195,7 +195,9 @@ As you work, if your Alice world has unsaved changes, an asterisk appears beside
 
 If you want to be certain your most recent work is saved (rather than relying on the autosave feature) you can quickly save your work by pressing `Command-S`. The asterisk disappears to indicate the file has been saved.
 
-## Exercise: Make a Scene 😎
+## Exercise
+
+### Make a Scene
 
 Use the rest of this period to get familiar with the Scene Editor in Alice.
 
