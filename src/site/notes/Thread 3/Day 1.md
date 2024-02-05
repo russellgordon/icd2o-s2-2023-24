@@ -15,3 +15,4 @@
 > [!NOTE]
 > 
 > If you wish, after Study this evening, you may update your laptop to macOS Sonoma, as we will not be using the Playgrounds coding environment again this year.
+  
