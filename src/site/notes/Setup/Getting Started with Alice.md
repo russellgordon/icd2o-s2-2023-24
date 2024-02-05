@@ -191,7 +191,7 @@ To do so, choose **File > Save...** and then save into your **Computer Studies**
 
 As you work, if your Alice world has unsaved changes, an asterisk appears beside the filename:
 
-![Screenshot 2023-02-13 at 7.35.06 AM.png](/img/user/Media/Screenshot%202023-02-13%20at%207.35.06%20AM.png)
+![Screenshot 2023-02-13 at 7.35.06 AM.png|700](/img/user/Media/Screenshot%202023-02-13%20at%207.35.06%20AM.png)
 
 If you want to be certain your most recent work is saved (rather than relying on the autosave feature) you can quickly save your work by pressing `Command-S`. The asterisk disappears to indicate the file has been saved.
 
