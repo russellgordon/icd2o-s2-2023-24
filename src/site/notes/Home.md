@@ -4,20 +4,25 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-17/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-1/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 2, Day 17 - Thursday, December 21, 2023
+### Thread 3, Day 1 - Monday, February 5, 2024
 #### Agenda
-1. Task: [[Tasks/Custom Gig Poster\|Custom Gig Poster]]
-	- Finish this task today, being certain to add a [final post to your portfolio](https://www.notion.so/lakefieldcs/Thread-2-Day-16-Custom-Gig-Poster-Final-Entry-e60141cc765243aca12ae449ed4e0bfe?pvs=4).
-	- Please double-check that you have met [[Tasks/Custom Gig Poster#Success criteria\|all the success criteria]].
-2. Portfolio: [[Portfolios/End of Module 2 Assessment\|End of Module 2 Assessment]]
-	- Be certain as well to complete this brief self-assessment before leaving class.
+1. Setup: Alice – Storytelling and Game Programming in 3D
+	- Install Alice
+	- Explore the Scene Editor
+	- Create your first world
 
-Have a great and well-deserved Winter Break! ☃️ 
+###### Things to do before our next class
+- [ ]  Be sure Alice is installed and that you have [[Setup/Getting Started with Alice#Exercise: Make a Scene 😎\|shared progress on your first world]] on [Notion](https://notion.so).
+
+> [!NOTE]
+> 
+> If you wish, after Evening Study, you may update your laptop to macOS Sonoma, as we will not be using the Playgrounds coding environment again this year.
+
 
 </div></div>
  
