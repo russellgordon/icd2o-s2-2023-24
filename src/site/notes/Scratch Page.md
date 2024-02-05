@@ -2,6 +2,47 @@
 {"dg-publish":true,"permalink":"/scratch-page/","dgHomeLink":true}
 ---
 
+### Thread 3, Day 1 - Monday, February 5, 2024
+#### Agenda
+1. Setup: [[Setup/Getting Started with Alice\|Alice – Storytelling and Game Programming in 3D]]
+	- Install Alice
+	- Explore the Scene Editor
+	- Create your first world
+
+###### Things to do before our next class
+- [ ]  Be sure Alice is installed and that you have [[Setup/Getting Started with Alice#Exercise: Make a Scene 😎\|shared progress on your first world]] on [Notion](https://notion.so).
+
+> [!NOTE]
+> 
+> If you wish, after Study this evening, you may update your laptop to macOS Sonoma, as we will not be using the Playgrounds coding environment again this year.
+
+
+---
+dg-publish: true
+dg-home-link: true
+tags:
+---
+### Thread 3, Day 1 - Monday, February 5, 2024
+#### Agenda
+1. Setup: [[Setup/Getting Started with Alice\|Alice – Storytelling and Game Programming in 3D]]
+	- Install Alice
+	- Explore the Scene Editor
+	- Create your first world
+
+> [!NOTE]
+> 
+> If you wish, you may now update your laptop to macOS Sonoma, as we will not be using the Playgrounds coding environment again this year.
+
+###### Things to do before our next class
+- [ ]  Be sure Alice is installed and that you have [[Setup/Getting Started with Alice#Exercise: Make a Scene 😎\|shared progress on your first world]] on [Notion](https://notion.so).
+
+
+
+---
+dg-publish: true
+dg-home-link: true
+tags:
+---
 ### Thread 2, Day 2 - Thursday, November 23, 2023
 #### Agenda
 1. Portfolios: Taking a Long-Term View
