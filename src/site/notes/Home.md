@@ -11,7 +11,7 @@
 
 ### Thread 3, Day 2 - Tuesday, February 6, 2024
 #### Agenda
-1. Concept: [[Concepts/Functions and Expressions\|Alice: Making Responsive Scenes with Functions and Expressions]]
+1. Concept: [[Concepts/Functions and Expressions\|Alice – Making Responsive Scenes with Functions and Expressions]]
 	- Writing programs that respond to changes in the scene setup
 	- Put another way – how to avoid writing "hard-coded" algorithms that "break" when something about our scene changes
 
