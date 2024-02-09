@@ -5,7 +5,7 @@
 ### Thread 3, Day 3 - Friday, February 9, 2024
 #### Agenda
 1. Concept: [[Concepts/Methods with Parameters\|Methods with Parameters]]
-	- How to use procedures (also known as methods or functions) with parameters
+	- How to use procedures (also known as methods or functions) with parameters.
 	- Put another way – how to avoid writing repetitive code in Alice.
 
 ###### Things to do before our next class
