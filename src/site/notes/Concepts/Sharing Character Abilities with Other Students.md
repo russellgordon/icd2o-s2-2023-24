@@ -139,7 +139,7 @@ In a different Alice world, we can import procedures written by other people.
 
 So, for example, we could use the `kick` procedure on an instance of `Biped` to make an animation like this:
 
-![Kicking Example.gif|701](/img/user/Media/Kicking%20Example.gif)
+![Kicking Example.gif|702](/img/user/Media/Kicking%20Example.gif)
 
 Here is how to import procedure(s) from a class file:
 
