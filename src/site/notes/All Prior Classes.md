@@ -8,6 +8,7 @@
 
 ### Thread 3
 
+- [[All Prior Classes#Thread 3, Day 3 - Friday, February 9, 2024\|Friday, February 9, 2024]]
 - [[All Prior Classes#Thread 3, Day 2 - Tuesday, February 6, 2024\|Day 2 - Tuesday, February 6, 2024]]
 - [[All Prior Classes#Thread 3, Day 1 - Monday, February 5, 2024\|Day 1 - Monday, February 5, 2024]]
 
@@ -48,6 +49,24 @@
 - [[All Prior Classes#Thread 1, Day 2 - Tuesday, September 19, 2023\|Day 2 - Tuesday, September 19, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, September 12, 2023\|Day 1 - Tuesday, September 12, 2023]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-3/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 3 - Friday, February 9, 2024
+#### Agenda
+1. Concept: [[Concepts/Methods with Parameters\|Methods with Parameters]]
+	- How to use procedures (also known as methods or functions) with parameters.
+	- Put another way – how to avoid writing repetitive code in Alice.
+
+###### Things to do before our next class
+- [ ] Complete the [[Concepts/Methods with Parameters\|lesson]] and [[Concepts/Methods with Parameters#Exercise 1 Replace Repetitive Code\|both]]  [[Concepts/Methods with Parameters#Exercise 2 Three Little Pigs\|exercises]] given today, then write about what you have learned [on Notion](https://notion.so).
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 3\|Back to top of thread 3 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-2/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
