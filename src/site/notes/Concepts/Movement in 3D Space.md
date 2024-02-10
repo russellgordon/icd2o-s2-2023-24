@@ -145,7 +145,9 @@ Any statements placed inside a do-together tile will run at the same time.
 
 ## Exercises
 
-The goal of these exercises is for you to be comfortable with understanding how this camera pan was created:
+The [pan](https://youtu.be/GbnYBmqBbKA?t=47), [tilt](https://youtu.be/GbnYBmqBbKA?t=69), and [zoom](https://youtu.be/GbnYBmqBbKA?t=85) camera movements are all pretty straightforward to implement in Alice, if you have carefully studied the [[Concepts/Movement in 3D Space#Position and Orientation\|position and orientation examples]] given above.
+
+The goal of these exercises is for you to be comfortable with understanding how to implement a semi-circular [dolly](https://youtu.be/GbnYBmqBbKA?t=90) shot, like this:
 
 [![Screenshot 2023-02-21 at 3.18.47 PM.jpg|700](/img/user/Media/Screenshot%202023-02-21%20at%203.18.47%20PM.jpg)](https://www.youtube-nocookie.com/embed/8piXdy6_riI)
 
@@ -153,7 +155,7 @@ Camera movements of this nature are commonly used in movies or television shows 
 
 ### Exercise 1
 
-First, [download the starter world](https://www.icloud.com/iclouddrive/00arm6lQQK2io-AN2K9jLgbYg#Movement_and_Orientation):
+First, [download the starter world](https://www.russellgordon.ca/lcs/2023-24/icd2o/Movement_and_Orientation.a3p.zip):
 
 [![Pasted image 20230221163548.jpg](/img/user/Media/Pasted%20image%2020230221163548.jpg)](https://www.icloud.com/iclouddrive/00arm6lQQK2io-AN2K9jLgbYg#Movement_and_Orientation)
 
