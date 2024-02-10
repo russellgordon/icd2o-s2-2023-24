@@ -8,7 +8,8 @@
 
 ### Thread 3
 
-- [[All Prior Classes#Thread 3, Day 3 - Friday, February 9, 2024\|Friday, February 9, 2024]]
+- [[All Prior Classes#Thread 3, Day 4 - Saturday, February 10, 2024\|Day 4 - Saturday, February 10, 2024]]
+- [[All Prior Classes#Thread 3, Day 3 - Friday, February 9, 2024\|Day 3 - Friday, February 9, 2024]]
 - [[All Prior Classes#Thread 3, Day 2 - Tuesday, February 6, 2024\|Day 2 - Tuesday, February 6, 2024]]
 - [[All Prior Classes#Thread 3, Day 1 - Monday, February 5, 2024\|Day 1 - Monday, February 5, 2024]]
 
@@ -49,6 +50,26 @@
 - [[All Prior Classes#Thread 1, Day 2 - Tuesday, September 19, 2023\|Day 2 - Tuesday, September 19, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, September 12, 2023\|Day 1 - Tuesday, September 12, 2023]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-4/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 4 - Saturday, February 10, 2024
+#### Agenda
+1. Concept: [[Concepts/Movement in 3D Space\|Movement in 3D Space]]
+	- How objects move (change position)
+	- How objects are oriented (change the direction they are facing)
+	- How to combine movement and orientation to create more advanced camera angles
+
+###### Things to do before our next class
+
+- [ ] Complete the [[Concepts/Movement in 3D Space\|lesson]] and [[Concepts/Movement in 3D Space#Exercises\|exercises]] given today, then write about what you have learned [on Notion](https://notion.so).
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 3\|Back to top of thread 3 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-3/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
