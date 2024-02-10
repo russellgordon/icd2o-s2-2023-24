@@ -163,13 +163,13 @@ Notice that:
 
 - there is a yellow sphere with its axes showing at the bottom of the frame
 - there is a red sphere with its axes showing at the top of the frame
-- there is a semi-transparent torus (essentially a circle) connecting the two spheres
+- there is a semi-transparent torus (essentially a circular path) connecting the two spheres
 
 Your goal is to get the yellow sphere to follow the path of the torus, so that it ends up in the same position as the red sphere, like this:
 
 [![Screenshot 2023-02-21 at 3.31.51 PM.jpg](/img/user/Media/Screenshot%202023-02-21%20at%203.31.51%20PM.jpg)](https://www.youtube-nocookie.com/embed/ejzzM82pxAA)
 
-Consider how the sphere will need to change it's position and orientation to move as shown.
+Carefully consider how the sphere will need to change it's [[Concepts/Movement in 3D Space#Movement\|position]] *and* [[Concepts/Movement in 3D Space#Orientation\|orientation]].
 
 When you complete this execise, immediately make a post [on Notion](https://notion.so).
 - Carefully explain *how* and *why* the code you wrote works.
