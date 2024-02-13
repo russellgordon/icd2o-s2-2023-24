@@ -4,19 +4,22 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-5/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-6/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 3, Day 5 - Monday, February 12, 2024
+### Thread 3, Day 6 - Tuesday, February 13, 2024
 #### Agenda
-1. Concept: [[Concepts/Moving Object Sub-Joints\|Moving Object Sub-Joints]]
-	- Learn how to use do-together and do-in-order control structures to move object sub-joints and create realistic motion
+1. Concept: [[Concepts/Sharing Character Abilities with Other Students\|Sharing Character Abilities with Other Students]]
+	- What is the difference between a class and an object?
+	- How can we share a procedure written for a class in one world for use in another Alice world?
+2. Task: [[Tasks/Authoring Class-Level Procedures\|Authoring Class-Level Procedures]]
+	- Write at least two procedures that can be used on classes in an Alice world
 
 ###### Things to do before our next class
 
-- [ ] Complete the [[Concepts/Moving Object Sub-Joints\|lesson]] and the four exercises given today, then write about what you have learned [on Notion](https://notion.so).
+- [ ] Complete the [[Concepts/Sharing Character Abilities with Other Students\|tutorial and exercise]] given today, then get started on your [[Tasks/Authoring Class-Level Procedures\|mid-module task]].
 
 </div></div>
  
