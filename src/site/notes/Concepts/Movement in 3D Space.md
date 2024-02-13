@@ -157,7 +157,7 @@ Camera movements of this nature are commonly used in movies or television shows 
 
 First, [download the starter world](https://www.russellgordon.ca/lcs/2023-24/icd2o/Movement_and_Orientation.a3p.zip):
 
-[![Pasted image 20230221163548.jpg](/img/user/Media/Pasted%20image%2020230221163548.jpg)](https://www.icloud.com/iclouddrive/00arm6lQQK2io-AN2K9jLgbYg#Movement_and_Orientation)
+[![Pasted image 20230221163548.jpg](/img/user/Media/Pasted%20image%2020230221163548.jpg)](https://www.russellgordon.ca/lcs/2023-24/icd2o/Movement_and_Orientation.a3p.zip)
 
 Notice that:
 
