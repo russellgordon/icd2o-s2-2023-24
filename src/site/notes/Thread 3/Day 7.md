@@ -21,7 +21,7 @@
 	- Then, students will decide upon what actions they want to program for their [[Tasks/Authoring Class-Level Procedures\|mid-module task]].
 	> [!TIP]
 	> 
-	> The procedure you implement *does not* have to be one of the procedure ideas you came up with and submitted to the form.
+	> The procedures you implement *do not* have to be one of the procedure ideas you came up with and submitted to the form.
 	- You have the rest of the period to make further progress with your [[Tasks/Authoring Class-Level Procedures\|mid-module task]].
 	- Your goal should be to complete at *least* one procedure by our next class.
 
