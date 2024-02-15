@@ -15,7 +15,7 @@
 		- **Transport**
 		> [!NOTE]
 		> 
-		> Each student must submit at least two ideas, without repeats.
+		> Each student must [submit at least two ideas](https://docs.google.com/forms/d/e/1FAIpQLSd4RTPdkINbwOknkLEYOYhc0A2j7c9NwPH0AqRuzp_WEnZq1w/viewform), without repeats.
 		> 
 		> The list of submitted actions will be on the TV screen at the front of the class.
 	- Then, students will decide upon what actions they want to program for their [[Tasks/Authoring Class-Level Procedures\|mid-module task]].
