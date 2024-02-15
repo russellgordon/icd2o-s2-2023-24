@@ -31,6 +31,8 @@
 	> The procedures you implement *do not* have to be one of the procedure ideas you came up with and submitted to the form.
 	- You have the rest of the period to make further progress with your [[Tasks/Authoring Class-Level Procedures\|mid-module task]].
 	- Your goal should be to complete at *least* one procedure by our next class.
+	> [!NOTE]
+	> Here is [the list of procedures and what each student has agreed to work on](https://docs.google.com/spreadsheets/d/1Uw5e0pxyFXWhOGLDuGzqFVNYreRS9tJFlQb3ihwxEH4/edit?resourcekey#gid=386892402).
 
 ###### Things to do before our next class
 
