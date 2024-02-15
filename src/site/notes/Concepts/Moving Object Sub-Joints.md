@@ -118,7 +118,7 @@ However, he does gather that a "dab" and "flossing" are a *bit* out-of-date.
 
 Nonetheless, given that there are many videos available demonstrating these dance moves, they are a good choice for practicing with moving object sub-joints.
 
-Work with your partner to first make a plan for, and then program, a [dab or a floss](https://www.youtube.com/watch?v=6i3cjWn2nOQ).
+Work with your partner to first make a plan for, and then program, a dab, a floss, or any other recognizable dance move.
 
 > [!TIP]
 > If you can find additional videos of these dance moves being demonstrated, they might be useful for figuring out the individual movements that occur. Consider pausing the video or watching it at a slower speed – something less than 1x.
