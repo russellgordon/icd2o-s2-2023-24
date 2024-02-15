@@ -62,7 +62,7 @@
 ### Thread 3, Day 7 - Thursday, February 15, 2024
 #### Agenda
 1. Task: [[Tasks/Authoring Class-Level Procedures\|Authoring Class-Level Procedures]]
-	- Together, we will think of at least 20 useful actions, for any combination of these classes in Alice:
+	- Together, we will think of [at least 20 useful actions](https://docs.google.com/forms/d/e/1FAIpQLSd4RTPdkINbwOknkLEYOYhc0A2j7c9NwPH0AqRuzp_WEnZq1w/viewform), for any combination of these classes in Alice:
 		- **Biped**
 		- **Flyer**
 		- **Prop**
@@ -70,7 +70,15 @@
 		- **Slitherer**
 		- **Swimmer**
 		- **Transport**
+		> [!NOTE]
+		> 
+		> Each student must submit at least two ideas, without repeats.
+		> 
+		> The list of submitted actions will be on the TV screen at the front of the class.
 	- Then, students will decide upon what actions they want to program for their [[Tasks/Authoring Class-Level Procedures\|mid-module task]].
+	> [!TIP]
+	> 
+	> The procedure you implement *does not* have to be one of the procedure ideas you came up with and submitted to the form.
 	- You have the rest of the period to make further progress with your [[Tasks/Authoring Class-Level Procedures\|mid-module task]].
 	- Your goal should be to complete at *least* one procedure by our next class.
 
@@ -93,7 +101,7 @@
 	- What is the difference between a class and an object?
 	- How can we share a procedure written for a class in one world for use in another Alice world?
 2. Task: [[Tasks/Authoring Class-Level Procedures\|Authoring Class-Level Procedures]]
-	- Write at least two procedures that can be used on classes in an Alice world
+	- Write at least two procedures that can be used on classes in an Alice world.
 
 ###### Things to do before our next class
 
