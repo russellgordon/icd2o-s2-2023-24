@@ -8,7 +8,7 @@
 	- What is the difference between a class and an object?
 	- How can we share a procedure written for a class in one world for use in another Alice world?
 2. Task: [[Tasks/Authoring Class-Level Procedures\|Authoring Class-Level Procedures]]
-	- Write at least two procedures that can be used on classes in an Alice world
+	- Write at least two procedures that can be used on classes in an Alice world.
 
 ###### Things to do before our next class
 
