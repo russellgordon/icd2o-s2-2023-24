@@ -29,4 +29,4 @@
 
 ###### Things to do before our next class
 
-- [ ] Make clear progress your [[Tasks/Authoring Class-Level Procedures\|mid-module task]] by completing at least one procedure and documenting it in a post [on Notion](https://notion.so).
+- [ ] Make clear progress on your [[Tasks/Authoring Class-Level Procedures\|mid-module task]] by completing at least one procedure and documenting it in a post [on Notion](https://notion.so).
