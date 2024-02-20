@@ -4,39 +4,25 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-7/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 3, Day 7 - Thursday, February 15, 2024
+### Thread 3, Day 8 - Tuesday, February 20, 2024
 #### Agenda
 1. Task: [[Tasks/Authoring Class-Level Procedures\|Authoring Class-Level Procedures]]
-	- Together, we will think of [at least 20 useful actions](https://docs.google.com/forms/d/e/1FAIpQLSd4RTPdkINbwOknkLEYOYhc0A2j7c9NwPH0AqRuzp_WEnZq1w/viewform), for any combination of these classes in Alice:
-		- **Biped**
-		- **Flyer**
-		- **Prop**
-		- **Quadruped**
-		- **Slitherer**
-		- **Swimmer**
-		- **Transport**
-		> [!NOTE]
-		> 
-		> Each student must [submit at least two ideas](https://docs.google.com/forms/d/e/1FAIpQLSd4RTPdkINbwOknkLEYOYhc0A2j7c9NwPH0AqRuzp_WEnZq1w/viewform), without repeats.
-		> 
-		> The list of submitted actions will be on the TV screen at the front of the class.
-	- Then, students will decide upon what actions they want to program for their [[Tasks/Authoring Class-Level Procedures\|mid-module task]].
-	> [!TIP]
-	> 
-	> The procedures you implement *do not* have to be one of the procedure ideas you came up with and submitted to the form.
-	- You have the rest of the period to make further progress with your [[Tasks/Authoring Class-Level Procedures\|mid-module task]].
-	- Your goal should be to complete at *least* one procedure by our next class.
+	- You have a final working period to complete this task.
+	- Here is the [list of procedures](https://docs.google.com/spreadsheets/d/1Uw5e0pxyFXWhOGLDuGzqFVNYreRS9tJFlQb3ihwxEH4/edit?resourcekey#gid=386892402) everyone agreed to create.
+	- If you wish to provide even more evidence of understanding for the [[Tasks/Authoring Class-Level Procedures#Learning goals\|relevant learning goals]], try authoring one or more additional procedures.
 	> [!NOTE]
-	> Here is [the list of procedures and what each student has agreed to work on](https://docs.google.com/spreadsheets/d/1Uw5e0pxyFXWhOGLDuGzqFVNYreRS9tJFlQb3ihwxEH4/edit?resourcekey#gid=386892402).
+	> Be sure to [complete the template](https://docs.google.com/document/d/1_LakGY9NncwgEwylJX11jS6Vlzz2YejJ7fAV4q2Uo8s/copy) to document how each procedure you author works. 
+	> 
+	> Correctly completing this template is part of the [[Tasks/Authoring Class-Level Procedures#Success criteria and exemplar\|success criteria]] for this task – [here is a video showing how to do this](https://www.youtube-nocookie.com/embed/0IPvZ1x4qSM) – Mr. Gordon will also demonstrate in person for anyone who wants to see this in-class. 
 
 ###### Things to do before our next class
 
-- [ ] Make clear progress your [[Tasks/Authoring Class-Level Procedures\|mid-module task]] by completing at least one procedure and documenting it in a post [on Notion](https://notion.so).
+- [ ] Complete all your procedures and [the related documentation](https://www.youtube-nocookie.com/embed/0IPvZ1x4qSM).
 
 </div></div>
  
