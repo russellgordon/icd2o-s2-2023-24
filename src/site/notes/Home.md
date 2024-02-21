@@ -4,25 +4,22 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 3, Day 8 - Tuesday, February 20, 2024
+### Thread 3, Day 9 - Wednesday, February 21, 2024
 #### Agenda
-1. Task: [[Tasks/Authoring Class-Level Procedures\|Authoring Class-Level Procedures]]
-	- You have a final working period to complete this task.
-	- Here is the [list of procedures](https://docs.google.com/spreadsheets/d/1Uw5e0pxyFXWhOGLDuGzqFVNYreRS9tJFlQb3ihwxEH4/edit?resourcekey#gid=386892402) everyone agreed to create.
-	- If you wish to provide even more evidence of understanding for the [[Tasks/Authoring Class-Level Procedures#Learning goals\|relevant learning goals]], try authoring one or more additional procedures.
-	> [!NOTE]
-	> Be sure to [complete the template](https://docs.google.com/document/d/1_LakGY9NncwgEwylJX11jS6Vlzz2YejJ7fAV4q2Uo8s/copy) to document how each procedure you author works. 
-	> 
-	> Correctly completing this template is part of the [[Tasks/Authoring Class-Level Procedures#Success criteria and exemplar\|success criteria]] for this task – [here is a video showing how to do this](https://www.youtube-nocookie.com/embed/0IPvZ1x4qSM) – Mr. Gordon will also demonstrate in person for anyone who wants to see this in-class. 
+1. Concept: [[Concepts/First Person Perspective, Proximity, and Scoring\|First Person Perspective, Proximity, and Scoring]]
+	- Learn how to use *event listeners*.
+		- This allows an Alice scene to respond to key press events.
+		- We can also detect when two object get close to one another.
+	- Additionally, learn how to track and show a score using a head's up display.
 
 ###### Things to do before our next class
 
-- [ ] Complete all your procedures and [the related documentation](https://www.youtube-nocookie.com/embed/0IPvZ1x4qSM).
+- [ ] Complete this lesson and it's related exercise, then share your progress [on Notion](https://notion.so).
 
 </div></div>
  
