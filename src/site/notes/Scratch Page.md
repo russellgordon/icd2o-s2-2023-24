@@ -2,74 +2,11 @@
 {"dg-publish":true,"permalink":"/scratch-page/","dgHomeLink":true}
 ---
 
-### Thread 3, Day 1 - Monday, February 5, 2024
-#### Agenda
-1. Setup: [[Setup/Getting Started with Alice\|Alice – Storytelling and Game Programming in 3D]]
-	- Install Alice
-	- Explore the Scene Editor
-	- Create your first world
 
-###### Things to do before our next class
-- [ ]  Be sure Alice is installed and that you have [[Setup/Getting Started with Alice#Exercise: Make a Scene 😎\|shared progress on your first world]] on [Notion](https://notion.so).
+# Alice topics
 
-> [!NOTE]
-> 
-> If you wish, after Study this evening, you may update your laptop to macOS Sonoma, as we will not be using the Playgrounds coding environment again this year.
-
-
----
-dg-publish: true
-dg-home-link: true
-tags:
----
-### Thread 3, Day 1 - Monday, February 5, 2024
-#### Agenda
-1. Setup: [[Setup/Getting Started with Alice\|Alice – Storytelling and Game Programming in 3D]]
-	- Install Alice
-	- Explore the Scene Editor
-	- Create your first world
-
-> [!NOTE]
-> 
-> If you wish, you may now update your laptop to macOS Sonoma, as we will not be using the Playgrounds coding environment again this year.
-
-###### Things to do before our next class
-- [ ]  Be sure Alice is installed and that you have [[Setup/Getting Started with Alice#Exercise: Make a Scene 😎\|shared progress on your first world]] on [Notion](https://notion.so).
-
-
-
----
-dg-publish: true
-dg-home-link: true
-tags:
----
-### Thread 2, Day 2 - Thursday, November 23, 2023
-#### Agenda
-1. Portfolios: Taking a Long-Term View
-	- Entries as note-taking.
-	- Communication and vocabulary.
-	- A channel for feedback.
-	- Connection to end of year tasks.
-	- Please remember to tag against a [[Learning Goals\|learning goal]].
-1. Discussion: [[Discussions/Safe Computing\|Safe Computing]]
-	- A look at ways that we can regain our privacy and safety online.
-	- Once you have completed the [[Discussions/Safe Computing#Action\|four action items]], you may use the rest of the period for the next item on today's agenda.
-1. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
-	- Continue making progress on challenges.
-###### Things to do before our next class
-- [ ] Make a Notion post and:
-	1. Share screenshot(s) of the new challenge(s) you completed on Hacktivate.
-	2. Describe concepts or terms you learned about, and concepts or terms you want to learn more about.
-
-# Portfolio 
-
-## Missing
-- Thomas C
-- Kevin L
-- Kaan (empty)
-- Blake
-- Axel
-
+- getting many objects to do the same thing
+- 
 
 # Upcoming topics
 
