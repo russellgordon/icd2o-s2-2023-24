@@ -4,22 +4,19 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-10/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 3, Day 9 - Wednesday, February 21, 2024
+### Thread 3, Day 10 - Friday, February 23, 2024
 #### Agenda
-1. Concept: [[Concepts/First Person Perspective, Proximity, and Scoring\|First Person Perspective, Proximity, and Scoring]]
-	- Learn how to use *event listeners*.
-		- This allows an Alice scene to respond to key press events.
-		- We can also detect when two object get close to one another.
-	- Additionally, learn how to track and show a score using a head's up display.
+1. Task: [[Tasks/Creative Alice World\|Creative Alice World]]
+	- Begin your end-of-module task.
 
 ###### Things to do before our next class
 
-- [ ] Complete this lesson and the related exercise, then share your progress [on Notion](https://notion.so).
+- [ ] Continue working on your end-of-module task and [share progress on Notion](https://notion.so).
 
 </div></div>
  
