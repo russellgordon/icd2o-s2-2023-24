@@ -12,4 +12,4 @@
 
 ###### Things to do before our next class
 
-- [ ] Complete this lesson and it's related exercise, then share your progress [on Notion](https://notion.so).
+- [ ] Complete this lesson and the related exercise, then share your progress [on Notion](https://notion.so).
