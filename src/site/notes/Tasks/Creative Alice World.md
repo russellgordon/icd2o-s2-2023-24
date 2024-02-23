@@ -4,12 +4,6 @@
 
 # Creative Alice World
 
----
-dg-publish: true
-dg-home-link: false
-tags: [ics2o]
----
-# Creative Alice World
 ## Objective
 Write an Alice world that tells a story that has meaning to you, or, make a small game in Alice that involves movement using a [[Concepts/First Person Perspective, Proximity, and Scoring\|first-person perspective]].
 
