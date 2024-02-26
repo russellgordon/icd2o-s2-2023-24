@@ -9,4 +9,4 @@
 
 ###### Things to do before our next class
 
-- [ ] Continue working on your end-of-module task and ==be sure to== [share progress on Notion](https://notion.so).[[Thread 3/Day 10\|Thread 3/Day 10]]
+- [ ] Continue working on your end-of-module task and ==be sure to== [share progress on Notion](https://notion.so).
