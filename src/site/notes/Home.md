@@ -4,20 +4,25 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-12/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-13/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 3, Day 12 - Tuesday, February 27, 2024
+### Thread 3, Day 13 - Friday, March 1, 2024
 #### Agenda
 1. Task: [[Tasks/Creative Alice World\|Creative Alice World]]
-	- Continue your end-of-module task.
-	- This is your second last class of the week to work on this task.
+	- ==At the start of class==, please make a brief post on Notion, and hand in your work-in-progress, regardless of where you are.
+		- This means uploading the **.a3p** file for your task.
+	- Continue making progress on your task during the period.
+	- ==At the end of class==, please hand in the **.a3p** file for your work-in-progress again in a new Notion post, with a brief video this time showing what happens in your world.
+	> [!NOTE]
+	> 
+	> You may continue to work on your end-of-mod task until 11 PM on Saturday, March 2, 2024.
 
-###### Things to do before our next class
+###### Things to do for Evening Study
 
-- [ ] Continue working on your end-of-module task and ==be sure to== [share progress on Notion](https://notion.so).
+- [ ] Hand in the final version of your end-of-module task prior to 11 PM on Saturday, if you have not done so already.
 
 </div></div>
  
