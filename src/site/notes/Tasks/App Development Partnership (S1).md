@@ -33,7 +33,7 @@ Here is one example of an app completed in 2019, when this partnership with LDPS
 
 <figure style="width: 568px;">
 	<video width="568" height="" controls preload="metadata">
-	  <source src="/linked-media/Video/mario-treasure-hunt.mp4#t=0.2" type="video/mp4">
+	  <source src="https://www.russellgordon.ca/linked-media/Video/mario-treasure-hunt.mp4#t=0.2" type="video/mp4">
 	Your browser does not support the video tag.
 	</video>
 	<figcaption>
