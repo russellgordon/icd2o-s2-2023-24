@@ -32,7 +32,13 @@ In the **Questions** section, ask about anything that you need a hand with, and 
 
 ## Handing in your work
 
-When you are all done, submit the **.a3p** file in a final post regarding this task [on Notion](https://notion.so).
+When you are all done:
+
+1. Submit the **.a3p** file in a final post regarding this task [on Notion](https://notion.so).
+2. Include a video showing your complete animation or game.
+3. Please respond to this one question:
+	- What was the single hardest thing you had to figure out to complete your task?
+	- How does the code for that part of your task work? Please explain using clear subject-specific vocabulary.
 
 ## Learning goals
 Successful completion of this task is great evidence of mastery for learning goals [[Learning Goals#4\|4]], [[Learning Goals#5\|5]], [[Learning Goals#6\|6]].
