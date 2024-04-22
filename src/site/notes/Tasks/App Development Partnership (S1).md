@@ -6,7 +6,7 @@
 
 ## Objective
 
-Have fun working with a group of elementary school students to design and build an app to their specifications; demonstrate your mastery of programming fundamentals; show a clear understanding of the nature and value of an iterative approach to software development.
+Have fun working with a group of elementary school students to design and build an educational app to their specifications; demonstrate your mastery of programming fundamentals; show a clear understanding of the nature and value of an iterative approach to software development.
 
 ![Screenshot 2024-04-22 at 6.11.07 AM.png|400](/img/user/Media/Screenshot%202024-04-22%20at%206.11.07%E2%80%AFAM.png)
 
