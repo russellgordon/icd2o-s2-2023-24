@@ -6,6 +6,10 @@
 
 ## Table of Contents
 
+### Thread 4
+
+- [[All Prior Classes#Thread 4, Day 1 - Monday, April 22, 2024\|Day 1 - Monday, April 22, 2024]] 
+
 ### Thread 3
 
 - [[All Prior Classes#Thread 3, Day 13 - Friday, March 1, 2024\|Day 13 - Friday, March 1, 2024]]
@@ -58,6 +62,26 @@
 - [[All Prior Classes#Thread 1, Day 3 - Thursday, September 21, 2023\|Day 3 - Thursday, September 21, 2023]]
 - [[All Prior Classes#Thread 1, Day 2 - Tuesday, September 19, 2023\|Day 2 - Tuesday, September 19, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, September 12, 2023\|Day 1 - Tuesday, September 12, 2023]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-1/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 1 - Monday, April 22, 2024
+#### Agenda
+1. Culminating Task: [[Tasks/App Development Partnership (S2)\|App Development Partnership]]
+	- Understanding the parameters of the task that will be completed instead of a final exam in this course.
+2. Activity: [Introduction to Thunkable](https://www.russellgordon.ca/lcs/2023-24/icd2o/Introduction_to_Thunkable.pdf)
+	- Learn a bit about Thunkable, which may be a useful platform for delivering your culminating task solution.
+
+###### Things to do before our next class
+- [ ] Try to implement a guessing game in Thunkable, with as many improvements to the gameplay as you can come up with.
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 4\|Back to top of thread 4 ⬆]]</small>
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-13/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
