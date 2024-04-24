@@ -4,20 +4,20 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-1/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-2/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 1 - Monday, April 22, 2024
+### Thread 4, Day 2 - Tuesday, April 23, 2024
 #### Agenda
-1. Culminating Task: [[Tasks/App Development Partnership (S2)\|App Development Partnership]]
-	- Understanding the parameters of the task that will be completed instead of a final exam in this course.
-2. Activity: [Introduction to Thunkable](https://www.russellgordon.ca/lcs/2023-24/icd2o/Introduction_to_Thunkable.pdf)
-	- Learn a bit about Thunkable, which may be a useful platform for delivering your culminating task solution.
+1. Culminating Task: [[Tasks/App Development Partnership (S1)\|App Development Partnership]]
+	- Today, we visit Lakefield District Public School for the first time, to meet our partners and [learn more about them and their interests](https://www.russellgordon.ca/lcs/2023-24/icd2o/ICD2O_-_App_Development_Partnership_%E2%80%93_Visit_1.pdf).
+	- This will help each of you, as the consultants, determine what type of fun, educational app you might design for the students at LDPS, who are your clients.
 
 ###### Things to do before our next class
-- [ ] Try to implement a guessing game in Thunkable, with as many improvements to the gameplay as you can come up with.
+- [ ] Please post photos of the [notes you took today](https://www.russellgordon.ca/lcs/2023-24/icd2o/ICD2O_-_App_Development_Partnership_%E2%80%93_Visit_1.pdf) to [Notion](https://notion.so).
+	- Add anything else to your post that helps you remember what the students you spoke with are interested in.
 
 </div></div>
  
@@ -33,8 +33,7 @@ ___
 
 Day|Time|Location
 -|-|-
-Tuesday|1:30 PM to 2 PM|Room 36
-Friday|12:30 PM to 1 PM|Room 36
+Thursday|1:30 PM to 2 PM|Room 36
 
 Grove Time is a drop-in, no appointment needed.
 
