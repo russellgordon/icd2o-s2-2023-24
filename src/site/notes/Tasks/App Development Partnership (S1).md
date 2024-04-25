@@ -31,15 +31,13 @@ Have fun working with a group of elementary school students to design and build 
 
 Here is one example of an app completed in 2019, when this partnership with LDPS last occurred.
 
+This is *Mario Treasure Hunt*, a game that teaches Cartesian co-ordinates through play.
+
 <figure style="width: 568px;">
 	<video width="568" height="" controls preload="metadata">
 	  <source src="https://www.russellgordon.ca/linked-media/Video/mario-treasure-hunt.mp4#t=0.2" type="video/mp4">
 	Your browser does not support the video tag.
 	</video>
-	<figcaption>
-		<h4>Mario Treasure Hunt</h4>
-		<p>The completed version of the game that teaches Cartesian co-ordinates through play.</p>
-	</figcaption>
 </figure>
 
 ![example3.png|700](/img/user/Media/example3.png)
