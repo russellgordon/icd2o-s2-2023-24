@@ -27,7 +27,6 @@
 		> [!IMPORTANT]
 		> 
 		> Please keep track of the source(s) from where you obtain image and audio assets for your game. These should be cited within your game – for example – on a "Credits" screen.
-	- Mr. Gordon will now work with students who are building vocabulary quiz games to help them get started.
 
 ###### Things to do before our next class
 - [ ] Make progress on implementation of your app idea.
