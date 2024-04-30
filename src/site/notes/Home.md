@@ -19,7 +19,6 @@
 		- [Math Quiz](https://www.youtube.com/watch?v=ZFmUKV2IcPM)
 		> [!NOTE]
 		> More mini-videos like this are coming soon. Categories to be covered are:
-		> - Telling Time
 		> - Multiple Choice
 		> - Vocabulary Quiz
 	- Here are some good sources for image and audio assets:
