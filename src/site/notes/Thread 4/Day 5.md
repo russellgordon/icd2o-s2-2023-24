@@ -7,6 +7,7 @@
 1. Culminating Task: [[Tasks/App Development Partnership (S1)\|App Development Partnership]]
 	- This is your first working period to begin implementing  the plans you have made with your partner(s) at Lakefield DPS.
 	- You are welcome to use Alice, [Thunkable](https://thunkable.com), [Scratch](https://scratch.mit.edu), [Snap!](https://snap.berkeley.edu), or whatever programming environment you are comfortable with and that best fits the task at hand.
+	- For any students using Thunkable, Mr. Gordon will demonstrate how to load [many images](https://www.russellgordon.ca/lcs/2023-24/icd2o/Food_Images.zip) at once into a project.
 	- Here is a video Mr. Gordon recorded to explain how to program core game play for most types of apps that students are working on:
 		- [Math Quiz](https://www.youtube.com/watch?v=ZFmUKV2IcPM)
 		> [!NOTE]
