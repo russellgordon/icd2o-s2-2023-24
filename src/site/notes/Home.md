@@ -62,8 +62,7 @@ ___
 
 Day|Time|Location
 -|-|-
-Monday|12:30 PM to 1 PM|Room 36
-Thursday|1:30 PM to 2 PM|Room 36
+Tuesday|12:30 PM to 2 PM|Room 36
 
 Grove Time is a drop-in, no appointment needed.
 
@@ -84,16 +83,9 @@ Computer Studies Program SICs are students enrolled in Grade 12 Computer Science
 
 They are friendly, very knowledgeable, and staff drop-in sessions as well – similar to Grove Time.
 
-Here is this week's schedule:
-
-Day|Time|SIC|Location
--|-|-|-
-Monday, April 29|1:00 PM to 1:30 PM|Griffin|Room 36
-Tuesday, April 30|12:30 PM to 1:30 PM|Morgan|Room 36
-Thursday, May 2|12:30 PM to 1:30 PM|Justin|Room 36
-Friday, May 3|12:30 PM to 1:30 PM|Quin|Room 36
-
-If you have a question about your work in a Computer Studies Program course, please come by!
+> [!NOTE]
+> 
+> While AP Exams are on (next three weeks) SICs will not be offering drop-in sessions.
 
 </div></div>
 
