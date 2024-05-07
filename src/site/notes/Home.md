@@ -4,27 +4,24 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-7-5/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 7.5 - Monday, May 6, 2024
+### Thread 4, Day 8 - Tuesday, May 7, 2024
+#### Agenda
+1. Culminating Task: [[Tasks/App Development Partnership (S2)\|App Development Partnership]]
+	- Today, we make our third visit to Lakefield District Public School, to collect feedback on software prototypes, or minimum viable products.
+	- While we are there, LDPS students will [think aloud as they try out your software prototypes](https://www.youtube.com/embed/0YL0xoSmyZI). 
+	- Be sure to [take notes on the feedback given](https://www.russellgordon.ca/lcs/2023-24/icd2o/ICD2O_-_App_Development_Partnership_%E2%80%93_Visit_3.pdf) and work to manage the expectations of your LDPS partners, if needed.
 
-> [!NOTE]
-> We did not have a class today; this post exists to share newly created instructional resources with you.
-
-#### Resources
-
-- Here are some additional videos Mr. Gordon has recorded to demonstrate a variety of ideas:
-	- [Bouncing and Shooting](https://youtu.be/fKKDUB1VNS0)
-		- You can clone this [bouncing experiments project](https://x.thunkable.com/copy/000eadc6331828dba81ce70da3d9a4ce) to follow along and then try the super-short mini-challenges that are described.
-	- [Gravity and Collisions](https://youtu.be/-sDupZFBQMw)
-		- You can clone this [gravity experiments project](https://x.thunkable.com/copy/57c12ba50d1adfef892caedf9da9f254) to follow along and then try the super-short mini-challenges that are described.
-
+		
 ###### Things to do before our next class
 - [ ] Make progress on implementation of your app idea.
-	- Be certain to briefly share an update [on Notion](https://notion.so), including screenshot(s) and a link to the current state of your project (if using Thunkable) or the **.a3p** file (if using Alice).
+	- On [Notion](https://notion.so), share screenshot(s) and a link to the current state of your project (if using Thunkable) or the **.a3p** file (if using Alice).
+	- Please also share photos of the notes you took today and add any additional thoughts you have about what to do next based on your conversation at LDPS.
+
 
 </div></div>
  
