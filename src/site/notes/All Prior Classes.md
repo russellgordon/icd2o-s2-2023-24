@@ -8,6 +8,7 @@
 
 ### Thread 4
 
+- [[All Prior Classes#Thread 4, Day 7.5 - Monday, May 6, 2024\|Day 7.5 - Monday, May 6, 2024]] 
 - [[All Prior Classes#Thread 4, Day 7 - Saturday, May 4, 2024\|Day 7 - Saturday, May 4, 2024]] 
 - [[All Prior Classes#Thread 4, Day 6 - Thursday, May 2, 2024\|Day 6 - Thursday, May 2, 2024]] 
 - [[All Prior Classes#Thread 4, Day 5 - Tuesday, April 30, 2024\|Day 5 - Tuesday, April 30, 2024]] 
@@ -69,6 +70,32 @@
 - [[All Prior Classes#Thread 1, Day 2 - Tuesday, September 19, 2023\|Day 2 - Tuesday, September 19, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, September 12, 2023\|Day 1 - Tuesday, September 12, 2023]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-7-5/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 7.5 - Monday, May 6, 2024
+
+> [!NOTE]
+> We did not have a class today; this post exists to share newly created instructional resources with you.
+
+#### Resources
+
+- Here are some additional videos Mr. Gordon has recorded to demonstrate a variety of ideas:
+	- [Bouncing and Shooting](https://youtu.be/fKKDUB1VNS0)
+		- You can clone this [bouncing experiments project](https://x.thunkable.com/copy/57c12ba50d1adfef892caedf9da9f254) to follow along and then try the super-short mini-challenges that are described.
+	- [Gravity and Collisions](https://youtu.be/-sDupZFBQMw)
+		- You can clone this [gravity experiments project](https://x.thunkable.com/copy/000eadc6331828dba81ce70da3d9a4ce) to follow along and then try the super-short mini-challenges that are described.
+
+###### Things to do before our next class
+- [ ] Make progress on implementation of your app idea.
+	- Be certain to briefly share an update [on Notion](https://notion.so), including screenshot(s) and a link to the current state of your project (if using Thunkable) or the **.a3p** file (if using Alice).
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 4\|Back to top of thread 4 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-7/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
