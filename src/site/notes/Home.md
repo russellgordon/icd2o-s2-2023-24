@@ -18,9 +18,9 @@
 
 - Here are some additional videos Mr. Gordon has recorded to demonstrate a variety of ideas:
 	- [Bouncing and Shooting](https://youtu.be/fKKDUB1VNS0)
-		- You can clone this [bouncing experiments project](https://x.thunkable.com/copy/57c12ba50d1adfef892caedf9da9f254) to follow along and then try the super-short mini-challenges that are described.
+		- You can clone this [bouncing experiments project](https://x.thunkable.com/copy/000eadc6331828dba81ce70da3d9a4ce) to follow along and then try the super-short mini-challenges that are described.
 	- [Gravity and Collisions](https://youtu.be/-sDupZFBQMw)
-		- You can clone this [gravity experiments project](https://x.thunkable.com/copy/000eadc6331828dba81ce70da3d9a4ce) to follow along and then try the super-short mini-challenges that are described.
+		- You can clone this [gravity experiments project](https://x.thunkable.com/copy/57c12ba50d1adfef892caedf9da9f254) to follow along and then try the super-short mini-challenges that are described.
 
 ###### Things to do before our next class
 - [ ] Make progress on implementation of your app idea.
