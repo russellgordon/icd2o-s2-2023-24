@@ -4,24 +4,24 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 8 - Tuesday, May 7, 2024
+### Thread 4, Day 9 - Wednesday, May 8, 2024
 #### Agenda
 1. Culminating Task: [[Tasks/App Development Partnership (S2)\|App Development Partnership]]
-	- Today, we make our third visit to Lakefield District Public School, to collect feedback on software prototypes, or minimum viable products.
-	- While we are there, LDPS students will [think aloud as they try out your software prototypes](https://www.youtube.com/embed/0YL0xoSmyZI). 
-	- Be sure to [take notes on the feedback given](https://www.russellgordon.ca/lcs/2023-24/icd2o/ICD2O_-_App_Development_Partnership_%E2%80%93_Visit_3.pdf) and work to manage the expectations of your LDPS partners, if needed.
+	- This is your fourth and final working period to implement the plans you have made with your partner(s) at Lakefield DPS.
+	- Continue making progress on implementing functionality in your app prior to our final visit to LDPS tomorrow afternoon at 2:00 PM, when the final version of your app will be delivered to your partners.
+	- Be sure to consult [[All Prior Classes\|All Prior Classes]] to access prior resources shared to help you build out your apps.
 
-		
+> [!NOTE]
+> Mr. Gordon will be running a Grove Time from 12:30 to 2:00 PM on Thursday (tomorrow) in room 36 to handle any (small) last minute questions.
+
 ###### Things to do before our next class
 - [ ] Make progress on implementation of your app idea.
-	- On [Notion](https://notion.so), share screenshot(s) and a link to the current state of your project (if using Thunkable) or the **.a3p** file (if using Alice).
-	- Please also share photos of the notes you took today and add any additional thoughts you have about what to do next based on your conversation at LDPS.
-
+	- Be certain to briefly share an update [on Notion](https://notion.so), including screenshot(s) and a link to the current state of your project (if using Thunkable) or the **.a3p** file (if using Alice).
 
 </div></div>
  
@@ -38,6 +38,7 @@ ___
 Day|Time|Location
 -|-|-
 Tuesday|12:30 PM to 2 PM|Room 36
+Thursday|12:30 PM to 2 PM|Room 36
 
 Grove Time is a drop-in, no appointment needed.
 
