@@ -5,6 +5,7 @@
 Day|Time|Location
 -|-|-
 Tuesday|12:30 PM to 2 PM|Room 36
+Thursday|12:30 PM to 2 PM|Room 36
 
 Grove Time is a drop-in, no appointment needed.
 
