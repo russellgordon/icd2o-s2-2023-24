@@ -8,6 +8,7 @@
 
 ### Thread 4
 
+- [[All Prior Classes#Thread 4, Day 10 - Thursday, May 9, 2024\|Day 10 - Thursday, May 9, 2024]] 
 - [[All Prior Classes#Thread 4, Day 9 - Wednesday, May 8, 2024\|Day 9 - Wednesday, May 8, 2024]] 
 - [[All Prior Classes#Thread 4, Day 8 - Tuesday, May 7, 2024\|Day 8 - Tuesday, May 7, 2024]] 
 - [[All Prior Classes#Thread 4, Day 7.5 - Monday, May 6, 2024\|Day 7.5 - Monday, May 6, 2024]] 
@@ -72,6 +73,30 @@
 - [[All Prior Classes#Thread 1, Day 2 - Tuesday, September 19, 2023\|Day 2 - Tuesday, September 19, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, September 12, 2023\|Day 1 - Tuesday, September 12, 2023]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-10/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 10 - Thursday, May 9, 2024
+#### Agenda
+1. Culminating Task: [[Tasks/App Development Partnership (S2)\|App Development Partnership]]
+	- Today we make our final visit to Lakefield District Public School to share your finished products with the students there.
+
+> [!IMPORTANT]
+> 
+> Please be sure that all the evidence you wish to have considered for your culminating task is in your portfolio by 10 PM on Sunday. This is to ensure your attention is not divided as you prepare for final evaluations in other courses.
+
+###### Things to do before our next class
+- [ ] Make a [brief portfolio post on Notion](https://notion.so).
+	- How did it feel to deliver your app to your partners?
+	- What did you learn from the experience?
+	- How was this culminating task different for you from other assignments you've had to complete for school?
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 4\|Back to top of thread 4 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
