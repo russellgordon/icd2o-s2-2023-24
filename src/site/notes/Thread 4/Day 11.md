@@ -16,8 +16,7 @@
 	- Then, please [submit a link to your interview slides](https://docs.google.com/forms/d/e/1FAIpQLSeNQ9DeX5ysMy5kPsiRScLbItHDnDs9-_Gmf8nHMde0q8hkNQ/viewform).
 		- This will facilitate swift turnarounds between interviews on Thursday morning.
 	- Here is the order of interviews for tomorrow morning:
-	  > [!NOTE]
-	  > ==To be determined==... the order will be randomly determined, live, in class today.
+	  ![Screenshot 2024-05-15 at 3.28.21 PM.png](/img/user/Media/Screenshot%202024-05-15%20at%203.28.21%E2%80%AFPM.png)
 	- This interview counts for 10% of your final grade and falls within the Communication evaluation category.
 
 ###### Things to do before our final class
